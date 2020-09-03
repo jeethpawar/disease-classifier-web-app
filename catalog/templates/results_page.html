@@ -1,6 +1,5 @@
 {% extends "base_generic.html" %}
 {% block content %}
-  <h1>You have disease ID: {{results.disease_id_0}}</h1>
-  <h2>The disease is called : {{'Influenza'}}</h2>
-  <li><a href="{% url 'future_steps' %}">Click to Learn more About your Diseases</a></li>
+  <h1>You have disease ID: {{results.pred_0}}</h1>
+  <h2>The disease is called : <a href={{results.pred_0.disease_link}}>{{results.pred_0.disease_name}}</a>
 {% endblock %}

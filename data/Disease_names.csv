@@ -1,0 +1,4220 @@
+Disease_ID,Disease_Name
+0,"Skull Fracture, Basilar"
+1,Blind Loop Syndrome
+2,Mastocytoma
+3,"Carcinoma, Adenoid Cystic"
+4,Salivary Duct Calculi
+5,Mycoplasmatales Infections
+6,Biliary Tract Neoplasms
+7,Pallister-Hall Syndrome
+8,Gardner Syndrome
+9,"Osteoarthritis, Hip"
+10,Uniparental Disomy
+11,Aspartylglucosaminuria
+12,Hyphema
+13,"Granuloma, Plasma Cell"
+14,Tabes Dorsalis
+15,Cerebrovascular Disorders
+16,Eye Injuries
+17,Alcohol Withdrawal Delirium
+18,Anterior Wall Myocardial Infarction
+19,Neurilemmoma
+20,"Meningitis, Escherichia coli"
+21,"Carcinoma, Hepatocellular"
+22,Feline Acquired Immunodeficiency Syndrome
+23,Substance-Related Disorders
+24,"Muscular Dystrophy, Duchenne"
+25,Trichinellosis
+26,Hyperkalemia
+27,Lipid Metabolism Disorders
+28,Severe Combined Immunodeficiency
+29,Neurogenic Inflammation
+30,Sertoli Cell Tumor
+31,Amblyopia
+32,Pulmonary Valve Insufficiency
+33,"Anus, Imperforate"
+34,Subphrenic Abscess
+35,"Dermatitis, Allergic Contact"
+36,Pulmonary Valve Stenosis
+37,Erythema
+38,Conjunctival Diseases
+39,"Hyperlipidemia, Familial Combined"
+40,Nelson Syndrome
+41,Obsessive-Compulsive Disorder
+42,Pancreatic Fistula
+43,Rift Valley Fever
+44,"Neoplasms, Second Primary"
+45,Leukoencephalopathies
+46,Hammer Toe Syndrome
+47,Pica
+48,Gingival Hypertrophy
+49,Hypophosphatasia
+50,Vitamin B 12 Deficiency
+51,Contracture
+52,"Pneumonia, Progressive Interstitial, of Sheep"
+53,Multicystic Dysplastic Kidney
+54,Testicular Hydrocele
+55,Bile Duct Neoplasms
+56,Anaplasmosis
+57,Arcus Senilis
+58,Pseudohypoparathyroidism
+59,Myocardial Infarction
+60,Lipomatosis
+61,Nephrotic Syndrome
+62,Sunburn
+63,Angioedema
+64,Central Cord Syndrome
+65,"Hydatidiform Mole, Invasive"
+66,Insulin Resistance
+67,Hyperprolactinemia
+68,Hypothalamic Diseases
+69,Churg-Strauss Syndrome
+70,"Sarcoma, Small Cell"
+71,"Glaucoma, Angle-Closure"
+72,"Osteoporosis, Postmenopausal"
+73,Renal Aminoacidurias
+74,Dental Calculus
+75,"Neuritis, Autoimmune, Experimental"
+76,Syphilis
+77,"Anemia, Hypochromic"
+78,Psychomotor Disorders
+79,Euthyroid Sick Syndromes
+80,Chronic Periodontitis
+81,Double Outlet Right Ventricle
+82,Epilepsy
+83,"Hypertrophy, Right Ventricular"
+84,Premenstrual Syndrome
+85,"Shock, Cardiogenic"
+86,Laryngomalacia
+87,Hymenolepiasis
+88,Rectocele
+89,"Lymphoma, Primary Effusion"
+90,Back Injuries
+91,Opsoclonus-Myoclonus Syndrome
+92,"Sweating, Gustatory"
+93,Polyhydramnios
+94,Tongue Diseases
+95,Brain Stem Neoplasms
+96,Thrombotic Microangiopathies
+97,Lyme Neuroborreliosis
+98,Laron Syndrome
+99,Choledochal Cyst
+100,Short Bowel Syndrome
+101,Mycoplasma Infections
+102,"Tachycardia, Ventricular"
+103,Placenta Previa
+104,Alkaptonuria
+105,Neurofibrosarcoma
+106,Hypopigmentation
+107,Liposarcoma
+108,Hallux Limitus
+109,Papilloma
+110,"Paraparesis, Tropical Spastic"
+111,"Lung Diseases, Obstructive"
+112,Cadmium Poisoning
+113,Lymphangioma
+114,"Death, Sudden"
+115,Dens in Dente
+116,Akinetic Mutism
+117,Heart Diseases
+118,Leukopenia
+119,Myxoma
+120,"Skin Diseases, Vesiculobullous"
+121,Tympanic Membrane Perforation
+122,Leptospirosis
+123,Cavernous Sinus Thrombosis
+124,Hypohidrosis
+125,Striatonigral Degeneration
+126,"Adenoma, Sweat Gland"
+127,Angiomyolipoma
+128,Neuroleptic Malignant Syndrome
+129,Shoulder Dislocation
+130,"Fluorosis, Dental"
+131,Olfactory Nerve Diseases
+132,Nesidioblastosis
+133,"Constriction, Pathologic"
+134,Mycobacterium avium-intracellulare Infection
+135,"Thrombocytopenia, Neonatal Alloimmune"
+136,Radiation Injuries
+137,Fibrous Dysplasia of Bone
+138,Hypotension
+139,Lung Neoplasms
+140,Adenomatoid Tumor
+141,Factor XIII Deficiency
+142,Pulmonary Embolism
+143,Spondylolisthesis
+144,Rubella
+145,Vulvodynia
+146,"Adenoma, Pleomorphic"
+147,"Leukemia, Lymphocytic, Chronic, B-Cell"
+148,Stevens-Johnson Syndrome
+149,Anthracosilicosis
+150,Viremia
+151,Low Back Pain
+152,"Leukemia, T-Cell"
+153,"Encephalomyelitis, Autoimmune, Experimental"
+154,"Malocclusion, Angle Class II"
+155,Hereditary Angioedema Type III
+156,Femur Head Necrosis
+157,Pinealoma
+158,Wrist Injuries
+159,Gingivitis
+160,Cheyne-Stokes Respiration
+161,Multiple Trauma
+162,Primary Ovarian Insufficiency
+163,Colonic Pseudo-Obstruction
+164,Hemianopsia
+165,Uterine Cervical Dysplasia
+166,"Leukemia, Myeloid"
+167,Stuttering
+168,Hypertrichosis
+169,"Ectodermal Dysplasia 1, Anhidrotic"
+170,Intracranial Hemorrhages
+171,Siderosis
+172,Blast Injuries
+173,Cardiovirus Infections
+174,Porcine Reproductive and Respiratory Syndrome
+175,Pruritus
+176,"Tuberculosis, Avian"
+177,Warts
+178,Respiratory Tract Neoplasms
+179,Exhibitionism
+180,Retroperitoneal Fibrosis
+181,Lip Diseases
+182,"Glomerulosclerosis, Focal Segmental"
+183,"Shock, Surgical"
+184,"Esophagitis, Peptic"
+185,"Stomatitis, Herpetic"
+186,"Hemorrhagic Fever, Crimean"
+187,"Histiocytosis, Non-Langerhans-Cell"
+188,Compartment Syndromes
+189,Neurodegenerative Diseases
+190,Situs Inversus
+191,"Purpura, Thrombotic Thrombocytopenic"
+192,Tooth Loss
+193,Cholecystolithiasis
+194,Chondroma
+195,Carotid Artery Thrombosis
+196,"Blindness, Cortical"
+197,"Myoclonic Epilepsies, Progressive"
+198,Glycogen Storage Disease Type II
+199,"Burns, Electric"
+200,Iron Metabolism Disorders
+201,Lung Abscess
+202,Moraxellaceae Infections
+203,"Amputation, Traumatic"
+204,"Osteoarthropathy, Primary Hypertrophic"
+205,"Paraneoplastic Syndromes, Nervous System"
+206,Ureaplasma Infections
+207,Mastoiditis
+208,"Pemphigus, Benign Familial"
+209,Pyoderma Gangrenosum
+210,"Tuberculosis, Central Nervous System"
+211,Yellow Fever
+212,Hypoprothrombinemias
+213,"Hypertension, Portal"
+214,"Tuberculosis, Laryngeal"
+215,Rhabdoviridae Infections
+216,Paratuberculosis
+217,"Pregnancy Complications, Cardiovascular"
+218,"Dendritic Cell Sarcoma, Follicular"
+219,Feeding and Eating Disorders of Childhood
+220,Phencyclidine Abuse
+221,Poisoning
+222,"Optic Atrophies, Hereditary"
+223,Urticaria Pigmentosa
+224,"Anemia, Neonatal"
+225,Popliteal Cyst
+226,Fetal Macrosomia
+227,Vaginismus
+228,"Fractures, Stress"
+229,Cementoma
+230,Enophthalmos
+231,Myeloproliferative Disorders
+232,Dermatitis
+233,Influenza in Birds
+234,Shoulder Fractures
+235,Syringoma
+236,Hirsutism
+237,Dengue
+238,Myelodysplastic Syndromes
+239,Mucopolysaccharidosis III
+240,Malocclusion
+241,Lens Diseases
+242,Rhabdoid Tumor
+243,Decapitation
+244,Retinitis
+245,Compulsive Personality Disorder
+246,Hyperpituitarism
+247,Marek Disease
+248,Headache Disorders
+249,"Purpura, Thrombocytopenic"
+250,Spinal Dysraphism
+251,Respirovirus Infections
+252,"Liver Cirrhosis, Alcoholic"
+253,"Placenta, Retained"
+254,"Hematoma, Subdural"
+255,"Radiation Injuries, Experimental"
+256,Gastrointestinal Hemorrhage
+257,Hyperesthesia
+258,Panic Disorder
+259,Sudden Infant Death
+260,Aortic Coarctation
+261,Cryptogenic Organizing Pneumonia
+262,Splenic Neoplasms
+263,Candidiasis
+264,"Aspergillosis, Allergic Bronchopulmonary"
+265,"Genital Diseases, Male"
+266,Ankylosis
+267,Keloid
+268,"Corneal Dystrophies, Hereditary"
+269,Fissure in Ano
+270,Foreign-Body Reaction
+271,Ataxia Telangiectasia
+272,Neurosyphilis
+273,Sialadenitis
+274,Tularemia
+275,Onychomycosis
+276,Vascular Malformations
+277,Drug Eruptions
+278,Mesenteric Cyst
+279,Choroideremia
+280,Multiple Endocrine Neoplasia
+281,Thyroiditis
+282,"Hyperoxaluria, Primary"
+283,Phagocyte Bactericidal Dysfunction
+284,HELLP Syndrome
+285,Alien Hand Syndrome
+286,Trichomonas Infections
+287,Urethral Stricture
+288,Endocardial Cushion Defects
+289,"Gastritis, Hypertrophic"
+290,Stiff-Person Syndrome
+291,Melorheostosis
+292,Herpesviridae Infections
+293,"Pregnancy Complications, Parasitic"
+294,Hemangioblastoma
+295,Endometriosis
+296,Glycogen Storage Disease Type V
+297,Myoepithelioma
+298,Ureteral Obstruction
+299,Amelogenesis Imperfecta
+300,"Infarction, Posterior Cerebral Artery"
+301,"Epilepsy, Absence"
+302,Extensively Drug-Resistant Tuberculosis
+303,Pasteurella Infections
+304,"Jaw, Edentulous, Partially"
+305,Malnutrition
+306,"Dementia, Multi-Infarct"
+307,Ureterocele
+308,"Dyslexia, Acquired"
+309,Uveal Diseases
+310,Kartagener Syndrome
+311,Nose Neoplasms
+312,Angiodysplasia
+313,Adenosarcoma
+314,Periodontal Diseases
+315,Campylobacter Infections
+316,Myoclonic Cerebellar Dyssynergia
+317,Epispadias
+318,Miller Fisher Syndrome
+319,Pubic Symphysis Diastasis
+320,Chondrodysplasia Punctata
+321,Ketosis
+322,Multiple Organ Failure
+323,Oligospermia
+324,Elimination Disorders
+325,Chorea
+326,Fecal Incontinence
+327,Malabsorption Syndromes
+328,Poxviridae Infections
+329,Bronchial Hyperreactivity
+330,Dental Fistula
+331,"Polychondritis, Relapsing"
+332,Submandibular Gland Diseases
+333,Yin Deficiency
+334,"Tooth Eruption, Ectopic"
+335,Rectal Prolapse
+336,Arbovirus Infections
+337,"Nails, Ingrown"
+338,Cholangitis
+339,"Pancreatitis, Alcoholic"
+340,"Myositis, Inclusion Body"
+341,Coronary Thrombosis
+342,Klatskin's Tumor
+343,Median Neuropathy
+344,Torsades de Pointes
+345,Laboratory Infection
+346,Vulvar Vestibulitis
+347,Bronchial Diseases
+348,Tauopathies
+349,Taeniasis
+350,Postoperative Hemorrhage
+351,"Sexually Transmitted Diseases, Bacterial"
+352,"Leukemia, Experimental"
+353,Altitude Sickness
+354,Synovitis
+355,"Intracranial Hemorrhage, Hypertensive"
+356,Amphetamine-Related Disorders
+357,Dwarfism
+358,Radial Neuropathy
+359,Colles' Fracture
+360,Anencephaly
+361,Megacolon
+362,Pigmentation Disorders
+363,Capillary Leak Syndrome
+364,"Osteoarthropathy, Secondary Hypertrophic"
+365,Tyrosinemias
+366,Wallerian Degeneration
+367,Mucocutaneous Lymph Node Syndrome
+368,Basal Ganglia Cerebrovascular Disease
+369,Atherosclerosis
+370,Pancreatitis
+371,"Schizophrenia, Paranoid"
+372,Erythema Induratum
+373,Skin Diseases
+374,Spinal Neoplasms
+375,Abscess
+376,Dehydration
+377,"Heart Failure, Diastolic"
+378,Retinal Dysplasia
+379,Synostosis
+380,Self Mutilation
+381,"Gait Disorders, Neurologic"
+382,Hepatic Veno-Occlusive Disease
+383,"Urinary Bladder, Neurogenic"
+384,"Neoplasms, Basal Cell"
+385,Reoviridae Infections
+386,Sleep Initiation and Maintenance Disorders
+387,Craniosynostoses
+388,Hemoperitoneum
+389,Nerve Sheath Neoplasms
+390,Thrombocytosis
+391,Cochlear Diseases
+392,Aortitis
+393,Bovine Virus Diarrhea-Mucosal Disease
+394,"Communicable Diseases, Emerging"
+395,Bone Resorption
+396,Calciphylaxis
+397,Glycogen Storage Disease Type IV
+398,Iatrogenic Disease
+399,Osteoradionecrosis
+400,Romano-Ward Syndrome
+401,Sadism
+402,Thalassemia
+403,Peripheral Vascular Diseases
+404,"Leukomalacia, Periventricular"
+405,"Muscular Dystrophies, Limb-Girdle"
+406,"Spondylitis, Ankylosing"
+407,Pancreatic Neoplasms
+408,Myiasis
+409,Bile Duct Diseases
+410,"Leprosy, Borderline"
+411,"Hypotension, Orthostatic"
+412,Osteosclerosis
+413,Thymus Neoplasms
+414,Cerebral Hemorrhage
+415,Diabetic Ketoacidosis
+416,Emphysema
+417,Eye Burns
+418,Heartwater Disease
+419,Huntington Disease
+420,Meningocele
+421,Salivary Gland Calculi
+422,Rocky Mountain Spotted Fever
+423,"Scleroderma, Limited"
+424,Dental Enamel Hypoplasia
+425,Wolman Disease
+426,Diverticulum
+427,Female Urogenital Diseases
+428,Laryngitis
+429,Meningeal Carcinomatosis
+430,Myofibromatosis
+431,"Neoplasms, Fibrous Tissue"
+432,Sialic Acid Storage Disease
+433,Lipodystrophy
+434,"Fibromatosis, Gingival"
+435,Duodenal Neoplasms
+436,"Hemorrhagic Fever, American"
+437,Laryngostenosis
+438,Venous Thromboembolism
+439,22q11 Deletion Syndrome
+440,Chromosome Fragility
+441,Bone Malalignment
+442,Tracheobronchomalacia
+443,Blindness
+444,Protein-Energy Malnutrition
+445,Subacute Sclerosing Panencephalitis
+446,Parapsoriasis
+447,Relapsing Fever
+448,"Colorectal Neoplasms, Hereditary Nonpolyposis"
+449,Wolff-Parkinson-White Syndrome
+450,Splenic Diseases
+451,WAGR Syndrome
+452,"Gonadal Dysgenesis, 46,XX"
+453,Esophageal Diseases
+454,Tick Toxicoses
+455,"Enterocolitis, Neutropenic"
+456,"Epilepsies, Myoclonic"
+457,Graft vs Host Disease
+458,Leg Injuries
+459,Macrocephaly
+460,Pseudotumor Cerebri
+461,Slow Virus Diseases
+462,Speech Disorders
+463,Crush Syndrome
+464,Hip Contracture
+465,Embolism
+466,Periapical Diseases
+467,Vascular Neoplasms
+468,Bladder Exstrophy
+469,"Leukemia, Monocytic, Acute"
+470,Infection
+471,Cystitis
+472,Ocular Hypertension
+473,"Papilloma, Intraductal"
+474,Pneumococcal Infections
+475,Pulmonary Subvalvular Stenosis
+476,"Anemia, Hemolytic, Congenital"
+477,"Neoplasms, Unknown Primary"
+478,Hallermann's Syndrome
+479,Sleep-Wake Transition Disorders
+480,Esophageal Atresia
+481,Suppuration
+482,Fascioloidiasis
+483,Lassa Fever
+484,Peritonitis
+485,Scleredema Adultorum
+486,Thrombophilia
+487,Fournier Gangrene
+488,"Lupus Erythematosus, Systemic"
+489,"Vasculitis, Central Nervous System"
+490,alpha 1-Antitrypsin Deficiency
+491,Dysentery
+492,Hallux Rigidus
+493,Bronchial Neoplasms
+494,"Encephalomyelitis, Equine"
+495,Endometrial Hyperplasia
+496,Mesenteric Lymphadenitis
+497,Helicobacter Infections
+498,Choroidal Neovascularization
+499,Bronchopulmonary Dysplasia
+500,Mite Infestations
+501,"Empyema, Tuberculous"
+502,Gas Gangrene
+503,Hemopneumothorax
+504,Toxemia
+505,Whiplash Injuries
+506,Blood Platelet Disorders
+507,Periventricular Nodular Heterotopia
+508,Overnutrition
+509,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+510,"Dysentery, Bacillary"
+511,"Tuberculosis, Meningeal"
+512,Otorhinolaryngologic Neoplasms
+513,Hysteria
+514,"Hyperostosis, Sternocostoclavicular"
+515,Hyperoxaluria
+516,Myelolipoma
+517,Myosarcoma
+518,Mongolian Spot
+519,"Neoplasms, Connective Tissue"
+520,"Intestinal Diseases, Parasitic"
+521,"Porphyrias, Hepatic"
+522,"Carbohydrate Metabolism, Inborn Errors"
+523,Thromboangiitis Obliterans
+524,Taste Disorders
+525,Acrospiroma
+526,Apraxias
+527,Bradycardia
+528,Retinal Dystrophies
+529,"Arthritis, Rheumatoid"
+530,Osteochondritis Dissecans
+531,Gonorrhea
+532,Stomach Neoplasms
+533,Diphyllobothriasis
+534,"Pleuropneumonia, Contagious"
+535,Lichen Sclerosus et Atrophicus
+536,Scabies
+537,Spinal Cord Diseases
+538,Fetal Diseases
+539,Celiac Disease
+540,Renal Artery Obstruction
+541,Fetal Alcohol Syndrome
+542,"Adenovirus Infections, Human"
+543,Communicable Diseases
+544,Fat Necrosis
+545,Fetal Death
+546,Spinal Cord Vascular Diseases
+547,"Tuberculosis, Female Genital"
+548,Fucosidosis
+549,Otitis
+550,Neurofibromatosis 1
+551,"Leukoencephalopathy, Progressive Multifocal"
+552,Achondroplasia
+553,Lip Neoplasms
+554,Myxedema
+555,Hypobetalipoproteinemias
+556,Tuberculoma
+557,Acute Chest Syndrome
+558,Gliosarcoma
+559,Lymphocytic Choriomeningitis
+560,Central Nervous System Fungal Infections
+561,Marburg Virus Disease
+562,"Mycobacterium Infections, Atypical"
+563,"Goiter, Endemic"
+564,"Embolism, Cholesterol"
+565,Galactosemias
+566,Glioblastoma
+567,Paronychia
+568,Inflammatory Bowel Diseases
+569,"Vision, Low"
+570,Esophageal Achalasia
+571,"Aphasia, Conduction"
+572,"Anemia, Megaloblastic"
+573,"Diverticulum, Stomach"
+574,Hypoplastic Left Heart Syndrome
+575,Mediastinal Neoplasms
+576,Ecchymosis
+577,"Aortic Aneurysm, Abdominal"
+578,"Bone Diseases, Infectious"
+579,Dupuytren Contracture
+580,Focal Infection
+581,"Actinomycosis, Cervicofacial"
+582,Priapism
+583,Yaws
+584,"Tuberculosis, Pulmonary"
+585,alpha-Thalassemia
+586,"Adenoma, Islet Cell"
+587,Cystinuria
+588,Urinary Calculi
+589,Trichuriasis
+590,"Anemia, Aplastic"
+591,"Lymphohistiocytosis, Hemophagocytic"
+592,"Pain, Intractable"
+593,Autistic Disorder
+594,"Parasitic Diseases, Animal"
+595,Alcohol Amnestic Disorder
+596,Prolapse
+597,Intermittent Claudication
+598,Gingival Pocket
+599,"Acidosis, Renal Tubular"
+600,Fetal Growth Retardation
+601,Scheuermann Disease
+602,"Ventricular Dysfunction, Right"
+603,"Encephalomyelitis, Venezuelan Equine"
+604,Single Umbilical Artery
+605,Silo Filler's Disease
+606,Bronchogenic Cyst
+607,Lung Injury
+608,X-Linked Combined Immunodeficiency Diseases
+609,Carpal Tunnel Syndrome
+610,Acrodynia
+611,Brucellosis
+612,Hermanski-Pudlak Syndrome
+613,Myocardial Stunning
+614,Hallux Valgus
+615,Hypoalbuminemia
+616,Anaplasmataceae Infections
+617,Birnaviridae Infections
+618,Nail-Patella Syndrome
+619,Complex Regional Pain Syndromes
+620,"Fatty Liver, Alcoholic"
+621,Fibroadenoma
+622,Multiple Sulfatase Deficiency Disease
+623,Staphylococcal Skin Infections
+624,Prune Belly Syndrome
+625,Rickettsiaceae Infections
+626,Corneal Ulcer
+627,Lyme Disease
+628,Facial Nerve Injuries
+629,"Leukemia, Biphenotypic, Acute"
+630,"Phenylketonuria, Maternal"
+631,Esophageal Stenosis
+632,"Embolism, Air"
+633,Amniotic Band Syndrome
+634,Gonadoblastoma
+635,Glucosephosphate Dehydrogenase Deficiency
+636,Heel Spur
+637,Hyperuricemia
+638,Enterobiasis
+639,Arachnoiditis
+640,"Leukemia, Prolymphocytic"
+641,"Polycystic Kidney, Autosomal Dominant"
+642,Temporomandibular Joint Dysfunction Syndrome
+643,"Hematoma, Subdural, Spinal"
+644,Hemoglobin C Disease
+645,Burns
+646,"Eye Injuries, Penetrating"
+647,Finger Injuries
+648,Causalgia
+649,Muscle Spasticity
+650,Hyperacusis
+651,Colonic Diseases
+652,Emergencies
+653,Nasopharyngeal Diseases
+654,Latent Tuberculosis
+655,Scleromyxedema
+656,Steatorrhea
+657,Graves Ophthalmopathy
+658,Hajdu-Cheney Syndrome
+659,Osteitis Fibrosa Cystica
+660,Maxillary Sinus Neoplasms
+661,Cheilitis
+662,"Influenza, Human"
+663,Chromosome Duplication
+664,Mesothelioma
+665,Pityriasis
+666,Pityriasis Lichenoides
+667,"Jaundice, Obstructive"
+668,Consciousness Disorders
+669,Orofaciodigital Syndromes
+670,Angelman Syndrome
+671,Tooth Abrasion
+672,Pyruvate Dehydrogenase Complex Deficiency Disease
+673,Myasthenia Gravis
+674,Dentin Dysplasia
+675,"Pleural Effusion, Malignant"
+676,Catalepsy
+677,Cervical Rib Syndrome
+678,Impulse Control Disorders
+679,Prion Diseases
+680,Tangier Disease
+681,Ovarian Diseases
+682,Neurologic Manifestations
+683,Hypochondriasis
+684,Eyelid Neoplasms
+685,Lissencephaly
+686,"Neoplasms, Multiple Primary"
+687,"Pericarditis, Tuberculous"
+688,Bruxism
+689,Chromoblastomycosis
+690,Glycogen Storage Disease
+691,"46, XX Disorders of Sex Development"
+692,Berylliosis
+693,"Carcinoma, Lobular"
+694,"Meningitis, Pneumococcal"
+695,Anisocoria
+696,Environmental Illness
+697,Oral Hemorrhage
+698,Disease
+699,Athetosis
+700,"Bronchitis, Chronic"
+701,Somatostatinoma
+702,"Nevus, Intradermal"
+703,"Granuloma, Pyogenic"
+704,Syndactyly
+705,Joint Instability
+706,Maxillary Sinusitis
+707,Wegener Granulomatosis
+708,Manganese Poisoning
+709,Splenosis
+710,Ventricular Remodeling
+711,Uterine Inertia
+712,Spondylarthropathies
+713,Anal Gland Neoplasms
+714,Metabolic Syndrome X
+715,Parkinson Disease
+716,Homocystinuria
+717,"Hand Deformities, Congenital"
+718,"Angioedemas, Hereditary"
+719,Facial Dermatoses
+720,"Gonadal Dysgenesis, Mixed"
+721,Muscle Hypertonia
+722,Papillomavirus Infections
+723,Spinal Diseases
+724,Angina Pectoris
+725,Inflammation
+726,"Syncope, Vasovagal"
+727,Fasciculation
+728,Immunologic Deficiency Syndromes
+729,Rectal Fistula
+730,Osteochondromatosis
+731,"Embolism, Paradoxical"
+732,"Anemia, Iron-Deficiency"
+733,Ergotism
+734,Neuromuscular Junction Diseases
+735,Arrhythmogenic Right Ventricular Dysplasia
+736,Monoclonal Gammopathy of Undetermined Significance
+737,Disorders of Sex Development
+738,Oligomenorrhea
+739,Pancreatic Pseudocyst
+740,"Diabetes Mellitus, Experimental"
+741,Smallpox
+742,"Tongue, Hairy"
+743,Tooth Resorption
+744,Cockayne Syndrome
+745,"Dyspnea, Paroxysmal"
+746,"Hyperparathyroidism, Secondary"
+747,Klinefelter Syndrome
+748,Odontogenic Tumors
+749,"Fibrous Dysplasia, Monostotic"
+750,Root Resorption
+751,Uterine Neoplasms
+752,"Malaria, Cerebral"
+753,Hereditary Autoinflammatory Diseases
+754,"Porphyria, Acute Intermittent"
+755,Odontogenic Cysts
+756,Papilledema
+757,Retinal Vein Occlusion
+758,Pulmonary Atelectasis
+759,Arsenic Poisoning
+760,Borna Disease
+761,Acute Generalized Exanthematous Pustulosis
+762,"Dermatitis, Atopic"
+763,"Enterocolitis, Pseudomembranous"
+764,Lupus Nephritis
+765,Cardiovascular Abnormalities
+766,Pseudorabies
+767,Angiofibroma
+768,"Ophthalmia, Sympathetic"
+769,Chorea Gravidarum
+770,"Embolism, Fat"
+771,Central Nervous System Diseases
+772,Dry Eye Syndromes
+773,"Wounds, Stab"
+774,Eosinophilic Granuloma
+775,Acquired Hyperostosis Syndrome
+776,"Optic Atrophy, Hereditary, Leber"
+777,Connective Tissue Diseases
+778,"Leukemia, Myeloid, Acute"
+779,"Nose Deformities, Acquired"
+780,Intracranial Hypertension
+781,Brachial Plexus Neuritis
+782,"Adenocarcinoma, Sebaceous"
+783,Psoriasis
+784,Eye Abnormalities
+785,Splenic Infarction
+786,TDP-43 Proteinopathies
+787,Cystinosis
+788,Canavan Disease
+789,De Quervain Disease
+790,beta-Mannosidosis
+791,Frostbite
+792,"Menopause, Premature"
+793,Meningism
+794,Lethargy
+795,Polyuria
+796,"Limb Deformities, Congenital"
+797,Pituitary Diseases
+798,"Dermatitis, Seborrheic"
+799,"Head Injuries, Closed"
+800,Pleurisy
+801,Tics
+802,"Uveitis, Posterior"
+803,Cerebral Palsy
+804,Prenatal Injuries
+805,"Liver Failure, Acute"
+806,Vertigo
+807,Child Behavior Disorders
+808,"Fractures, Closed"
+809,"Stress Disorders, Post-Traumatic"
+810,Agnosia
+811,REM Sleep Parasomnias
+812,"Reflex, Babinski"
+813,Peutz-Jeghers Syndrome
+814,Rhabdomyolysis
+815,Cardiomyopathies
+816,Trichomonas Vaginitis
+817,Kaposi Varicelliform Eruption
+818,Chondromatosis
+819,Afibrinogenemia
+820,Sarcoidosis
+821,Fatty Liver
+822,Odontoma
+823,Foot Diseases
+824,Cecal Neoplasms
+825,Hoarseness
+826,No-Reflow Phenomenon
+827,Serum Sickness
+828,Chromosome Inversion
+829,Polyarteritis Nodosa
+830,Aspergillosis
+831,Mitochondrial Encephalomyopathies
+832,Thyroid Neoplasms
+833,PC12 Cells
+834,Duodenogastric Reflux
+835,Hematologic Diseases
+836,Proteinuria
+837,Refsum Disease
+838,Hemobilia
+839,"Sleep Apnea, Obstructive"
+840,"Encephalomyelitis, Western Equine"
+841,Venous Thrombosis
+842,Rubulavirus Infections
+843,"Leukemia, Radiation-Induced"
+844,Kwashiorkor
+845,"Leukemia, Erythroblastic, Acute"
+846,"Leukoplakia, Oral"
+847,Weil Disease
+848,Facial Asymmetry
+849,Lentigo
+850,Polyneuropathies
+851,Antiphospholipid Syndrome
+852,Placental Insufficiency
+853,Arteriosclerosis
+854,"Glossitis, Benign Migratory"
+855,Noonan Syndrome
+856,Arterial Occlusive Diseases
+857,Skull Base Neoplasms
+858,"Urinary Bladder, Overactive"
+859,Periodontal Abscess
+860,Maxillofacial Abnormalities
+861,"Shock, Hemorrhagic"
+862,Ebstein Anomaly
+863,Micrognathism
+864,"Muscular Atrophy, Spinal"
+865,Intra-Articular Fractures
+866,Acute Coronary Syndrome
+867,Glucose Intolerance
+868,Piebaldism
+869,Splenic Rupture
+870,Facial Neuralgia
+871,Cholestasis
+872,Vitelliform Macular Dystrophy
+873,Pressure Ulcer
+874,"Dermatitis, Occupational"
+875,Diffuse Cerebral Sclerosis of Schilder
+876,Sexual and Gender Disorders
+877,Gallbladder Neoplasms
+878,Gastroschisis
+879,"Insomnia, Fatal Familial"
+880,"Elephantiasis, Filarial"
+881,Shy-Drager Syndrome
+882,"Cholestasis, Intrahepatic"
+883,"Sarcoma, Synovial"
+884,Chiari-Frommel Syndrome
+885,Pilomatrixoma
+886,"Cardiomyopathy, Restrictive"
+887,Corneal Edema
+888,Cryopyrin-Associated Periodic Syndromes
+889,"Respiratory Distress Syndrome, Adult"
+890,Serotonin Syndrome
+891,Ancylostomiasis
+892,Fibrocystic Breast Disease
+893,Cubital Tunnel Syndrome
+894,Polyradiculoneuropathy
+895,Tinnitus
+896,Lipoid Proteinosis of Urbach and Wiethe
+897,Tendon Injuries
+898,Sleep Paralysis
+899,Femoral Neoplasms
+900,Photophobia
+901,Lathyrism
+902,Soft Tissue Injuries
+903,"Heart Defects, Congenital"
+904,Postpericardiotomy Syndrome
+905,Hyperlipoproteinemia Type I
+906,Graves Disease
+907,Rat-Bite Fever
+908,Sarcoma 37
+909,Facial Neoplasms
+910,Uremia
+911,Peptic Ulcer
+912,Multiple Endocrine Neoplasia Type 2a
+913,Solitary Fibrous Tumors
+914,Flail Chest
+915,Microphthalmos
+916,Hematuria
+917,"Tachycardia, Sinoatrial Nodal Reentry"
+918,Anomia
+919,"Cardiomyopathy, Hypertrophic"
+920,Haemophilus Infections
+921,Rotavirus Infections
+922,Vaginitis
+923,Port-Wine Stain
+924,Gynatresia
+925,Passive-Aggressive Personality Disorder
+926,"Toxoplasmosis, Ocular"
+927,Dent Disease
+928,Myokymia
+929,Classical Swine Fever
+930,Gonadal Dysgenesis
+931,"Pneumonia, Atypical Interstitial, of Cattle"
+932,Thrombosis
+933,Chromosomal Instability
+934,"Epilepsy, Partial, Sensory"
+935,Dystocia
+936,Diffuse Axonal Injury
+937,Mucolipidoses
+938,"Myopathies, Nemaline"
+939,Epidural Neoplasms
+940,Orbital Neoplasms
+941,Coagulation Protein Disorders
+942,Facial Injuries
+943,Small Cell Lung Carcinoma
+944,Spirochaetales Infections
+945,"Pemphigoid, Benign Mucous Membrane"
+946,Brain Concussion
+947,"Hepatitis, Infectious Canine"
+948,Opisthorchiasis
+949,Choroiditis
+950,Lymphangiomyoma
+951,"Heart Rupture, Post-Infarction"
+952,Ageusia
+953,Contusions
+954,Electric Injuries
+955,Nerve Degeneration
+956,Choristoma
+957,Breech Presentation
+958,"Rhinitis, Atrophic"
+959,Mastocytosis
+960,Bronchiolitis Obliterans
+961,Vulvar Neoplasms
+962,"Leukemia, Promyelocytic, Acute"
+963,Neuronal Ceroid-Lipofuscinoses
+964,Frontotemporal Dementia
+965,Language Disorders
+966,"Mouth, Edentulous"
+967,Prenatal Exposure Delayed Effects
+968,Liver Failure
+969,Immunoblastic Lymphadenopathy
+970,"Trypanosomiasis, Bovine"
+971,Corynebacterium Infections
+972,"Leiomyoma, Epithelioid"
+973,Mitral Valve Stenosis
+974,Chylous Ascites
+975,"Pemphigoid, Bullous"
+976,Hemarthrosis
+977,Paraplegia
+978,Abruptio Placentae
+979,"Steroid Metabolism, Inborn Errors"
+980,Scleritis
+981,Trombiculiasis
+982,"Acidosis, Respiratory"
+983,"Tachycardia, Atrioventricular Nodal Reentry"
+984,Vision Disorders
+985,Iritis
+986,Soft Tissue Infections
+987,Blepharitis
+988,Herpes Labialis
+989,Microstomia
+990,Autoimmune Diseases of the Nervous System
+991,Deficiency Diseases
+992,Intracranial Aneurysm
+993,"Carcinoma, Brown-Pearce"
+994,Knee Dislocation
+995,Overbite
+996,Parasomnias
+997,Cat-Scratch Disease
+998,Adrenal Cortex Diseases
+999,HIV Wasting Syndrome
+1000,Hyperthyroxinemia
+1001,Paraphilias
+1002,Discrete Subaortic Stenosis
+1003,Cytomegalovirus Retinitis
+1004,Microcephaly
+1005,Aicardi Syndrome
+1006,Blister
+1007,Choroid Plexus Neoplasms
+1008,Retinal Neovascularization
+1009,Athletic Injuries
+1010,Hemostatic Disorders
+1011,Hypoventilation
+1012,Uterine Inversion
+1013,Nervous System Neoplasms
+1014,Monteggia's Fracture
+1015,Ventilator-Induced Lung Injury
+1016,Heart Aneurysm
+1017,Coronary-Subclavian Steal Syndrome
+1018,Dandy-Walker Syndrome
+1019,End Stage Liver Disease
+1020,Hereditary Sensory and Autonomic Neuropathies
+1021,Ludwig's Angina
+1022,Gestational Trophoblastic Neoplasms
+1023,"Lung Diseases, Interstitial"
+1024,Mansonelliasis
+1025,Newcastle Disease
+1026,Nijmegen Breakage Syndrome
+1027,Adie Syndrome
+1028,Neck Injuries
+1029,Arterivirus Infections
+1030,Hand-Arm Vibration Syndrome
+1031,Hydatidiform Mole
+1032,"Syphilis, Latent"
+1033,Brugada Syndrome
+1034,Bell Palsy
+1035,"Hearing Loss, Sudden"
+1036,"Leukemia, Prolymphocytic, T-Cell"
+1037,Malacoplakia
+1038,"Eczema, Dyshidrotic"
+1039,"Heavy Metal Poisoning, Nervous System"
+1040,Intracranial Hypotension
+1041,"Leukoencephalitis, Acute Hemorrhagic"
+1042,Oral Manifestations
+1043,Munchausen Syndrome
+1044,"Vaginosis, Bacterial"
+1045,Tietze's Syndrome
+1046,Heart Injuries
+1047,Thoracic Outlet Syndrome
+1048,Spinal Cord Ischemia
+1049,Epiretinal Membrane
+1050,"Lupus Vasculitis, Central Nervous System"
+1051,Pituitary Neoplasms
+1052,Glossalgia
+1053,Lateral Sinus Thrombosis
+1054,Biliary Tract Diseases
+1055,Nephrogenic Fibrosing Dermopathy
+1056,Tooth Attrition
+1057,Hepadnaviridae Infections
+1058,"Carcinoma, Basosquamous"
+1059,"Osteolysis, Essential"
+1060,"Uveitis, Anterior"
+1061,Pneumovirus Infections
+1062,Synkinesis
+1063,Tooth Ankylosis
+1064,Adenoviridae Infections
+1065,Seizures
+1066,"Tuberculosis, Bovine"
+1067,Amnesia
+1068,Susac Syndrome
+1069,Immersion Foot
+1070,"Leukemia, B-Cell"
+1071,Maxillofacial Injuries
+1072,Dirofilariasis
+1073,Paranasal Sinus Neoplasms
+1074,Hypersensitivity
+1075,"Tuberculosis, Splenic"
+1076,Wissler's Syndrome
+1077,"Dermatitis, Photoallergic"
+1078,Hyperlipoproteinemias
+1079,"Kidney Failure, Chronic"
+1080,Dicrocoeliasis
+1081,Sinusitis
+1082,Slit Ventricle Syndrome
+1083,"Glycosuria, Renal"
+1084,"Brain Stem Hemorrhage, Traumatic"
+1085,Hyperandrogenism
+1086,Cumulative Trauma Disorders
+1087,"Leukodystrophy, Metachromatic"
+1088,Multiple Pulmonary Nodules
+1089,"Tooth, Nonvital"
+1090,"Fasciitis, Necrotizing"
+1091,Trigeminal Neuralgia
+1092,Hyperlipidemias
+1093,"Obesity, Abdominal"
+1094,Pelvic Organ Prolapse
+1095,Polymyalgia Rheumatica
+1096,"Skin Diseases, Infectious"
+1097,Tennis Elbow
+1098,Facial Pain
+1099,Prosthesis Failure
+1100,"Skin Diseases, Bacterial"
+1101,Parasitemia
+1102,Acute Disease
+1103,Somatoform Disorders
+1104,Paratyphoid Fever
+1105,Carbuncle
+1106,Parametritis
+1107,Creutzfeldt-Jakob Syndrome
+1108,Frasier Syndrome
+1109,Oculocerebrorenal Syndrome
+1110,Bone Diseases
+1111,Ependymoma
+1112,Lymphatic Metastasis
+1113,Biliary Dyskinesia
+1114,"Gangliosidoses, GM2"
+1115,Pulmonary Emphysema
+1116,"Niemann-Pick Disease, Type B"
+1117,"Syphilis, Cutaneous"
+1118,Articulation Disorders
+1119,Melena
+1120,Female Athlete Triad Syndrome
+1121,Reactive Attachment Disorder
+1122,Keratoconjunctivitis
+1123,"Vitreoretinopathy, Proliferative"
+1124,Liver Diseases
+1125,Pulmonary Heart Disease
+1126,"Lead Poisoning, Nervous System"
+1127,MPTP Poisoning
+1128,Gilbert Disease
+1129,Pick Disease of the Brain
+1130,Wound Infection
+1131,Catatonia
+1132,"Red-Cell Aplasia, Pure"
+1133,Thyroid Diseases
+1134,Legionellosis
+1135,Gingival Hyperplasia
+1136,Ichthyosis Vulgaris
+1137,"Leukemia, Large Granular Lymphocytic"
+1138,"Paralysis, Obstetric"
+1139,Pre-Excitation Syndromes
+1140,Neisseriaceae Infections
+1141,Posterior Leukoencephalopathy Syndrome
+1142,Choledocholithiasis
+1143,Ovarian Cysts
+1144,Stomach Volvulus
+1145,"Telangiectasia, Hereditary Hemorrhagic"
+1146,Tracheal Diseases
+1147,Transsexualism
+1148,Blast Crisis
+1149,Stomach Diseases
+1150,"Sarcoma, Endometrial Stromal"
+1151,"Purpura, Hyperglobulinemic"
+1152,"Uveitis, Suppurative"
+1153,Cutaneous Fistula
+1154,Cherubism
+1155,"Cell Transformation, Viral"
+1156,"Porphyria, Hepatoerythropoietic"
+1157,"Neuroma, Acoustic"
+1158,Ciguatera Poisoning
+1159,Orbital Fractures
+1160,Pure Autonomic Failure
+1161,Respiratory System Abnormalities
+1162,Tic Disorders
+1163,Pulmonary Blastoma
+1164,Trichiasis
+1165,"Mammary Neoplasms, Experimental"
+1166,Precursor Cell Lymphoblastic Leukemia-Lymphoma
+1167,Pharyngitis
+1168,"Aneurysm, Ruptured"
+1169,"Lupus Erythematosus, Cutaneous"
+1170,Osteomyelitis
+1171,Takotsubo Cardiomyopathy
+1172,Vertebral Artery Dissection
+1173,"Adenocarcinoma, Bronchiolo-Alveolar"
+1174,"Uveitis, Intermediate"
+1175,Malignant Carcinoid Syndrome
+1176,Brain Ischemia
+1177,Giant Cell Tumors
+1178,Insulinoma
+1179,Phyllodes Tumor
+1180,Autolysis
+1181,Osteochondritis
+1182,Yersinia Infections
+1183,Bronchiolitis
+1184,Hyperaldosteronism
+1185,Amyloidosis
+1186,Histiocytic Necrotizing Lymphadenitis
+1187,Osteoporotic Fractures
+1188,Iridocorneal Endothelial Syndrome
+1189,Vascular Diseases
+1190,Pruritus Vulvae
+1191,"Toxoplasmosis, Cerebral"
+1192,"Neoplasms, Hormone-Dependent"
+1193,Bone Marrow Neoplasms
+1194,Alveolar Bone Loss
+1195,Cardiomegaly
+1196,"Granuloma, Foreign-Body"
+1197,Filariasis
+1198,Jacobsen Distal 11q Deletion Syndrome
+1199,Mycobacterium Infections
+1200,Chediak-Higashi Syndrome
+1201,"Nervous System Autoimmune Disease, Experimental"
+1202,"Neuroectodermal Tumors, Primitive, Peripheral"
+1203,Sweet Syndrome
+1204,Paragonimiasis
+1205,Tinea Favosa
+1206,Epidermolysis Bullosa Simplex
+1207,Alcoholic Intoxication
+1208,Pelizaeus-Merzbacher Disease
+1209,Infarction
+1210,Marchiafava-Bignami Disease
+1211,Posterior Tibial Tendon Dysfunction
+1212,Communication Disorders
+1213,Empyema
+1214,"Carcinoma, Squamous Cell"
+1215,Granuloma
+1216,Leg Ulcer
+1217,Hyperlipoproteinemia Type III
+1218,"Lichen Planus, Oral"
+1219,Familial Mediterranean Fever
+1220,Oral Fistula
+1221,Periapical Periodontitis
+1222,"Abnormalities, Drug-Induced"
+1223,Central Nervous System Parasitic Infections
+1224,Rinderpest
+1225,Pyelitis
+1226,"Liver Abscess, Pyogenic"
+1227,Otitis Media with Effusion
+1228,Mesonephroma
+1229,Persistent Vegetative State
+1230,Foot-and-Mouth Disease
+1231,Digestive System Abnormalities
+1232,"Hematoma, Subdural, Intracranial"
+1233,Corneal Wavefront Aberration
+1234,Esophageal Fistula
+1235,"Sprue, Tropical"
+1236,Vascular Fistula
+1237,Nose Diseases
+1238,Wandering Spleen
+1239,REM Sleep Behavior Disorder
+1240,Eosinophilia
+1241,Distemper
+1242,Fetomaternal Transfusion
+1243,"Chondrosarcoma, Mesenchymal"
+1244,Peroxisomal Disorders
+1245,Freemartinism
+1246,Unconsciousness
+1247,Labyrinth Diseases
+1248,Periodontitis
+1249,Cerebellar Diseases
+1250,Endoleak
+1251,"AIDS Arteritis, Central Nervous System"
+1252,"Genetic Diseases, Y-Linked"
+1253,"Renal Insufficiency, Chronic"
+1254,"Truncus Arteriosus, Persistent"
+1255,"Granuloma, Respiratory Tract"
+1256,Persian Gulf Syndrome
+1257,Deafness
+1258,Retinal Diseases
+1259,Hyperostosis Frontalis Interna
+1260,Submandibular Gland Neoplasms
+1261,"Abnormalities, Severe Teratoid"
+1262,Scrapie
+1263,"Genital Neoplasms, Female"
+1264,Dissociative Disorders
+1265,Henipavirus Infections
+1266,"Paraganglioma, Extra-Adrenal"
+1267,Tracheobronchomegaly
+1268,Varicocele
+1269,Coronary Vasospasm
+1270,Factor VII Deficiency
+1271,Hemorrhagic Fever with Renal Syndrome
+1272,Scurvy
+1273,"Pancreatitis, Chronic"
+1274,Ascaridida Infections
+1275,Epstein-Barr Virus Infections
+1276,Vulvovaginitis
+1277,Heart Neoplasms
+1278,Pneumocephalus
+1279,Arteritis
+1280,Tonsillitis
+1281,Tooth Fractures
+1282,Staphylococcal Infections
+1283,Jaw Fractures
+1284,Vocal Cord Paralysis
+1285,"Lipodystrophy, Familial Partial"
+1286,Spinal Osteochondrosis
+1287,Central Nervous System Vascular Malformations
+1288,Intestinal Pseudo-Obstruction
+1289,"Pregnancy, Tubal"
+1290,"Ichthyosiform Erythroderma, Congenital"
+1291,Intracranial Arterial Diseases
+1292,Acne Keloid
+1293,Bardet-Biedl Syndrome
+1294,"Sexual Dysfunctions, Psychological"
+1295,Vein of Galen Malformations
+1296,"Hip Dislocation, Congenital"
+1297,Strabismus
+1298,Crohn Disease
+1299,"Tuberculosis, Spinal"
+1300,Placenta Diseases
+1301,Hypoglossal Nerve Diseases
+1302,Ventricular Fibrillation
+1303,Louping Ill
+1304,"Carcinoma, Intraductal, Noninfiltrating"
+1305,Lymphomatoid Papulosis
+1306,"Sexually Transmitted Diseases, Viral"
+1307,Mandibular Neoplasms
+1308,Retinal Telangiectasis
+1309,Cystadenocarcinoma
+1310,Fanconi Anemia
+1311,Hypokalemic Periodic Paralysis
+1312,Arthrogryposis
+1313,"Leukemia, Myelomonocytic, Acute"
+1314,Protein S Deficiency
+1315,Accessory Nerve Diseases
+1316,"Parkinson Disease, Secondary"
+1317,"Auditory Diseases, Central"
+1318,Nephrosis
+1319,Breast Neoplasms
+1320,Idiopathic Pulmonary Fibrosis
+1321,Pneumoperitoneum
+1322,Urologic Neoplasms
+1323,Hyperkinesis
+1324,Bronchopulmonary Sequestration
+1325,Autoimmune Lymphoproliferative Syndrome
+1326,"Pneumonia, Mycoplasma"
+1327,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating"
+1328,Blepharophimosis
+1329,"Carcinoma, Basal Cell"
+1330,"Pericarditis, Constrictive"
+1331,"Carcinoma, Medullary"
+1332,Coxsackievirus Infections
+1333,Chromosome Breakage
+1334,"Anemia, Macrocytic"
+1335,"Fatigue Syndrome, Chronic"
+1336,Anovulation
+1337,"Sarcoma, Clear Cell"
+1338,Vitreous Detachment
+1339,Dentinogenesis Imperfecta
+1340,Mucopolysaccharidosis II
+1341,Chordoma
+1342,Pericarditis
+1343,Peroneal Neuropathies
+1344,"Eye Infections, Viral"
+1345,"Diverticulum, Esophageal"
+1346,Hartnup Disease
+1347,Fistula
+1348,"Jaw, Edentulous"
+1349,"Conjunctivitis, Inclusion"
+1350,"Edema, Cardiac"
+1351,"Adenocarcinoma, Clear Cell"
+1352,"Psychoses, Alcoholic"
+1353,Oral Ulcer
+1354,Radiodermatitis
+1355,"Anemia, Dyserythropoietic, Congenital"
+1356,Mitral Valve Prolapse
+1357,Central Nervous System Protozoal Infections
+1358,"Carcinoma, Embryonal"
+1359,Feline Panleukopenia
+1360,"Wounds, Penetrating"
+1361,"Enterocolitis, Necrotizing"
+1362,Supratentorial Neoplasms
+1363,Amenorrhea
+1364,Water Intoxication
+1365,Dysgeusia
+1366,Seminoma
+1367,Kuru
+1368,"Pasteurellosis, Pneumonic"
+1369,Cecal Diseases
+1370,Vasculitis
+1371,Adrenal Cortex Neoplasms
+1372,Multiple Endocrine Neoplasia Type 1
+1373,Postthrombotic Syndrome
+1374,Barotrauma
+1375,Dental Pulp Exposure
+1376,Leukostasis
+1377,"Muscular Dystrophy, Emery-Dreifuss"
+1378,"Spasms, Infantile"
+1379,"Hepatitis, Viral, Human"
+1380,"Hepatitis, Chronic"
+1381,Patellar Dislocation
+1382,Leukoaraiosis
+1383,"Sinus Arrest, Cardiac"
+1384,Coffin-Lowry Syndrome
+1385,Systemic Inflammatory Response Syndrome
+1386,"Toxoplasmosis, Animal"
+1387,"Tuberculoma, Intracranial"
+1388,Bezoars
+1389,Clostridium Infections
+1390,Cataract
+1391,Microvascular Angina
+1392,Tracheal Neoplasms
+1393,Iris Neoplasms
+1394,Rheumatic Fever
+1395,Hyperglycemia
+1396,Mandibular Injuries
+1397,"Hyperostosis, Diffuse Idiopathic Skeletal"
+1398,Pleural Effusion
+1399,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+1400,Zoster Sine Herpete
+1401,Retinal Neoplasms
+1402,Jervell-Lange Nielsen Syndrome
+1403,High Pressure Neurological Syndrome
+1404,Chagas Cardiomyopathy
+1405,Cholelithiasis
+1406,Blastomycosis
+1407,Dracunculiasis
+1408,Infant Nutrition Disorders
+1409,Diabetic Retinopathy
+1410,Leukocyte-Adhesion Deficiency Syndrome
+1411,Meningitis
+1412,Myositis
+1413,Nut Hypersensitivity
+1414,Sarcocystosis
+1415,Tinea Capitis
+1416,"Leukemia-Lymphoma, Adult T-Cell"
+1417,Chylothorax
+1418,Trichotillomania
+1419,"Seizures, Febrile"
+1420,Fibromyalgia
+1421,"Papilloma, Inverted"
+1422,Abdominal Abscess
+1423,Eclampsia
+1424,Rett Syndrome
+1425,Parvoviridae Infections
+1426,Prader-Willi Syndrome
+1427,Erythrokeratodermia Variabilis
+1428,Aortic Rupture
+1429,"Malaria, Vivax"
+1430,Anophthalmos
+1431,Nasopharyngitis
+1432,"Rhabdomyosarcoma, Alveolar"
+1433,Corneal Endothelial Cell Loss
+1434,Exanthema Subitum
+1435,Platybasia
+1436,"Sleep Apnea, Central"
+1437,"Amnesia, Anterograde"
+1438,Retinal Detachment
+1439,Drug Hypersensitivity
+1440,Histiocytosis
+1441,Urinary Bladder Calculi
+1442,Lymphangiectasis
+1443,Vesicovaginal Fistula
+1444,Femoral Neck Fractures
+1445,Leriche Syndrome
+1446,Tick Paralysis
+1447,Mumps
+1448,Pituitary Apoplexy
+1449,"Amnesia, Retrograde"
+1450,"Hypophosphatemia, Familial"
+1451,"Arthritis, Experimental"
+1452,Thyroglossal Cyst
+1453,"Endocarditis, Bacterial"
+1454,Ameloblastoma
+1455,Subclavian Steal Syndrome
+1456,Sprains and Strains
+1457,Muscle Hypotonia
+1458,Tourette Syndrome
+1459,"Leishmaniasis, Mucocutaneous"
+1460,Endometrial Neoplasms
+1461,Radicular Cyst
+1462,Swine Erysipelas
+1463,Tuberous Sclerosis
+1464,"Parkinson Disease, Postencephalitic"
+1465,"Mastocytosis, Systemic"
+1466,Sandhoff Disease
+1467,Hepatoblastoma
+1468,Sleep Arousal Disorders
+1469,"Hyperparathyroidism, Primary"
+1470,Paranoid Disorders
+1471,"Angina, Unstable"
+1472,"Carcinoma, Islet Cell"
+1473,"Lymphangioma, Cystic"
+1474,Urethral Obstruction
+1475,Dentigerous Cyst
+1476,Multiple Carboxylase Deficiency
+1477,Tolosa-Hunt Syndrome
+1478,Kidney Papillary Necrosis
+1479,"Brain Hemorrhage, Traumatic"
+1480,Hantavirus Pulmonary Syndrome
+1481,Refractive Errors
+1482,Meningoencephalitis
+1483,"Adenoma, Bile Duct"
+1484,Gerstmann-Straussler-Scheinker Disease
+1485,"Ductus Arteriosus, Patent"
+1486,"Tooth, Supernumerary"
+1487,Transvestism
+1488,Tooth Diseases
+1489,Giant Cell Arteritis
+1490,Alexander Disease
+1491,Epidermolysis Bullosa
+1492,Denys-Drash Syndrome
+1493,Dental Fissures
+1494,"Cystadenocarcinoma, Papillary"
+1495,Insulin Coma
+1496,Shwartzman Phenomenon
+1497,Ileal Neoplasms
+1498,Stomatitis
+1499,"Mineralocorticoid Excess Syndrome, Apparent"
+1500,Psoas Abscess
+1501,Sepsis
+1502,Facial Paralysis
+1503,Mandibulofacial Dysostosis
+1504,Protein-Losing Enteropathies
+1505,Joint Diseases
+1506,"Enteritis, Transmissible, of Turkeys"
+1507,Stomach Rupture
+1508,Autonomic Nervous System Diseases
+1509,Earache
+1510,Shaken Baby Syndrome
+1511,Avian Leukosis
+1512,"Tooth, Impacted"
+1513,Sarcoma
+1514,"Shock, Septic"
+1515,Salmonella Infections
+1516,"Carcinoma, Papillary, Follicular"
+1517,Behcet Syndrome
+1518,"Glomerulonephritis, Membranoproliferative"
+1519,Carotid Artery Diseases
+1520,Penile Induration
+1521,Pinta
+1522,HIV Enteropathy
+1523,Avitaminosis
+1524,Steatitis
+1525,Visceral Prolapse
+1526,Brenner Tumor
+1527,Angiolymphoid Hyperplasia with Eosinophilia
+1528,IgA Deficiency
+1529,Melioidosis
+1530,Brain Infarction
+1531,Essential Tremor
+1532,Fusobacterium Infections
+1533,Sinus Pericranii
+1534,Tooth Mobility
+1535,Lactation Disorders
+1536,"Chondromatosis, Synovial"
+1537,Eyelid Diseases
+1538,Myofibroma
+1539,"Pregnancy, Prolonged"
+1540,Felty's Syndrome
+1541,SUNCT Syndrome
+1542,Hemolysis
+1543,Endometritis
+1544,Pachyonychia Congenita
+1545,Brain Neoplasms
+1546,Scrub Typhus
+1547,Neutropenia
+1548,"Hernia, Inguinal"
+1549,Blackwater Fever
+1550,Distal Myopathies
+1551,Iliac Aneurysm
+1552,Burkholderia Infections
+1553,"Dwarfism, Pituitary"
+1554,"Paraparesis, Spastic"
+1555,Thyroid Crisis
+1556,"Sleep Disorders, Intrinsic"
+1557,Eye Infections
+1558,Epidermolysis Bullosa Acquisita
+1559,Rheumatic Diseases
+1560,"Foramen Ovale, Patent"
+1561,Tooth Demineralization
+1562,Arenaviridae Infections
+1563,"Bites, Human"
+1564,Hematocolpos
+1565,Korsakoff Syndrome
+1566,Neoplasm Metastasis
+1567,"Xanthogranuloma, Juvenile"
+1568,Trypanosomiasis
+1569,Granuloma Inguinale
+1570,Myelitis
+1571,"Brain Diseases, Metabolic, Inborn"
+1572,Puerperal Infection
+1573,Nasal Obstruction
+1574,"Epilepsy, Complex Partial"
+1575,Malignant Atrophic Papulosis
+1576,Paracoccidioidomycosis
+1577,Cystocele
+1578,"Genital Diseases, Female"
+1579,Neurofibroma
+1580,"Hyperkeratosis, Epidermolytic"
+1581,"Mixed Tumor, Mesodermal"
+1582,Pancoast Syndrome
+1583,Azotemia
+1584,Hyperargininemia
+1585,"Carcinoma, Papillary"
+1586,Sneddon Syndrome
+1587,Keratitis
+1588,"Lymphoma, Primary Cutaneous Anaplastic Large Cell"
+1589,Malignant Hyperthermia
+1590,Glycogen Storage Disease Type VII
+1591,De Lange Syndrome
+1592,Nuchal Cord
+1593,Body Dysmorphic Disorders
+1594,Sertoli Cell-Only Syndrome
+1595,Preleukemia
+1596,"Lymphoma, T-Cell, Peripheral"
+1597,Necatoriasis
+1598,"Neoplasms, Neuroepithelial"
+1599,Primary Progressive Nonfluent Aphasia
+1600,"Aphasia, Primary Progressive"
+1601,Head and Neck Neoplasms
+1602,Vascular Headaches
+1603,Adamantinoma
+1604,Depressive Disorder
+1605,Sphenoid Sinusitis
+1606,Angiolipoma
+1607,Boutonneuse Fever
+1608,Cyclothymic Disorder
+1609,"Abnormalities, Radiation-Induced"
+1610,Labyrinthitis
+1611,Pulmonary Atresia
+1612,Trematode Infections
+1613,Primary Dysautonomias
+1614,Sexual Infantilism
+1615,"Lymphoma, Follicular"
+1616,Severe Acute Respiratory Syndrome
+1617,"Tuberculosis, Cardiovascular"
+1618,Intracranial Thrombosis
+1619,"Porphyria, Variegate"
+1620,Scimitar Syndrome
+1621,Hemoglobinuria
+1622,Night Blindness
+1623,Lymphatic Abnormalities
+1624,Pelvic Inflammatory Disease
+1625,Growth Disorders
+1626,Flavivirus Infections
+1627,Echinococcosis
+1628,Embryo Loss
+1629,Movement Disorders
+1630,Chromosome Aberrations
+1631,Gangrene
+1632,DiGeorge Syndrome
+1633,Filoviridae Infections
+1634,"Leukemia, Eosinophilic, Acute"
+1635,Perinephritis
+1636,Acquired Immunodeficiency Syndrome
+1637,"Bone Diseases, Endocrine"
+1638,"Hepatitis, Viral, Animal"
+1639,Prediabetic State
+1640,Diabetic Coma
+1641,Adiposis Dolorosa
+1642,"Thrombocythemia, Essential"
+1643,"Muscular Disorders, Atrophic"
+1644,"Epilepsy, Generalized"
+1645,Epididymitis
+1646,Klebsiella Infections
+1647,Poland Syndrome
+1648,"Neoplasms, Fibroepithelial"
+1649,Chronobiology Disorders
+1650,Nephritis
+1651,"Hypoxia-Ischemia, Brain"
+1652,Cardiac Tamponade
+1653,Diplopia
+1654,Craniopharyngioma
+1655,Shellfish Poisoning
+1656,"Mercury Poisoning, Nervous System"
+1657,Hyperhomocysteinemia
+1658,Neuroendocrine Tumors
+1659,"Ischemic Attack, Transient"
+1660,Gerstmann Syndrome
+1661,Balanitis
+1662,Epidermodysplasia Verruciformis
+1663,"Myasthenic Syndromes, Congenital"
+1664,Cluster Headache
+1665,"Lead Poisoning, Nervous System, Adult"
+1666,"Sinus Thrombosis, Intracranial"
+1667,Alcoholism
+1668,Malformations of Cortical Development
+1669,Necrolytic Migratory Erythema
+1670,Anisometropia
+1671,"Meningitis, Haemophilus"
+1672,"Cholecystitis, Acute"
+1673,Subdural Effusion
+1674,"Hypersomnolence, Idiopathic"
+1675,Blepharospasm
+1676,Hip Dislocation
+1677,Neuritis
+1678,Spinal Stenosis
+1679,"Diabetes Insipidus, Nephrogenic"
+1680,Ureterolithiasis
+1681,Accelerated Idioventricular Rhythm
+1682,Measles
+1683,"Aphakia, Postcataract"
+1684,"Neoplasms, Squamous Cell"
+1685,Peripheral Arterial Disease
+1686,Shoulder Impingement Syndrome
+1687,"Abortion, Missed"
+1688,Marfan Syndrome
+1689,Carcinoma
+1690,Coronary Occlusion
+1691,Joint Loose Bodies
+1692,Loiasis
+1693,Respiratory Tract Fistula
+1694,Hydroa Vacciniforme
+1695,"Lipid Metabolism, Inborn Errors"
+1696,"Rupture, Spontaneous"
+1697,Glaucoma
+1698,"Neoplasms, Germ Cell and Embryonal"
+1699,Rothmund-Thomson Syndrome
+1700,"Diabetes, Gestational"
+1701,"Lung Diseases, Fungal"
+1702,Ectopia Lentis
+1703,Phantom Limb
+1704,Osteomalacia
+1705,Pheochromocytoma
+1706,Arthritis
+1707,Menstruation Disturbances
+1708,Abdominal Neoplasms
+1709,Fasciitis
+1710,Lordosis
+1711,"Headache Disorders, Primary"
+1712,Aphonia
+1713,Beckwith-Wiedemann Syndrome
+1714,"Carcinoma, Signet Ring Cell"
+1715,Necrobiosis Lipoidica
+1716,"Hearing Loss, Functional"
+1717,"Mucinosis, Follicular"
+1718,Paramyxoviridae Infections
+1719,Molluscum Contagiosum
+1720,Hypogonadism
+1721,Hemangiosarcoma
+1722,Actinomycetales Infections
+1723,Periodontal Attachment Loss
+1724,Child Nutrition Disorders
+1725,"Ossification, Heterotopic"
+1726,Asbestosis
+1727,Coronary Artery Disease
+1728,Rheumatic Nodule
+1729,Thrombasthenia
+1730,Leg Length Inequality
+1731,"Lymphoma, Large-Cell, Immunoblastic"
+1732,"Schizophrenia, Disorganized"
+1733,"Obesity, Morbid"
+1734,"Pregnancy Complications, Neoplastic"
+1735,"Respiratory Distress Syndrome, Newborn"
+1736,"Plagiocephaly, Nonsynostotic"
+1737,Acute-Phase Reaction
+1738,Phobic Disorders
+1739,"Hypertension, Pulmonary"
+1740,Foot Ulcer
+1741,Foodborne Diseases
+1742,Lown-Ganong-Levine Syndrome
+1743,Pseudomyxoma Peritonei
+1744,Gingival Diseases
+1745,Sertoli-Leydig Cell Tumor
+1746,Multiple System Atrophy
+1747,Lemierre Syndrome
+1748,Peritonsillar Abscess
+1749,Multiple Personality Disorder
+1750,Dengue Hemorrhagic Fever
+1751,Sciatica
+1752,von Willebrand Diseases
+1753,Endocarditis
+1754,Kidney Neoplasms
+1755,Hyperventilation
+1756,"Leprosy, Tuberculoid"
+1757,"Lymphoma, B-Cell, Marginal Zone"
+1758,Dermatofibrosarcoma
+1759,Retinal Perforations
+1760,Spinocerebellar Ataxias
+1761,"Pneumonia of Swine, Mycoplasmal"
+1762,Surgical Wound Infection
+1763,"Affective Disorders, Psychotic"
+1764,Isaacs Syndrome
+1765,Protozoan Infections
+1766,Folliculitis
+1767,Respiratory Paralysis
+1768,Blue Toe Syndrome
+1769,"Esophageal Spasm, Diffuse"
+1770,Immune Complex Diseases
+1771,Panophthalmitis
+1772,"Typhus, Endemic Flea-Borne"
+1773,Near Drowning
+1774,Classical Lissencephalies and Subcortical Band Heterotopias
+1775,Intracranial Arteriovenous Malformations
+1776,Hemorrhoids
+1777,Testicular Diseases
+1778,"Drug-Induced Liver Injury, Chronic"
+1779,Hydropneumothorax
+1780,"Lymphoma, Extranodal NK-T-Cell"
+1781,Acinetobacter Infections
+1782,Pseudarthrosis
+1783,"Adenoma, Chromophobe"
+1784,Cowpox
+1785,"Lymphoma, Mantle-Cell"
+1786,Periostitis
+1787,Trigeminal Autonomic Cephalalgias
+1788,"Onchocerciasis, Ocular"
+1789,Carbon Tetrachloride Poisoning
+1790,Turner Syndrome
+1791,Ulna Fractures
+1792,Biliary Atresia
+1793,Bronchiectasis
+1794,Gray Platelet Syndrome
+1795,Tibial Neuropathy
+1796,Parkinsonian Disorders
+1797,Jejunal Neoplasms
+1798,"Cystitis, Interstitial"
+1799,Epiglottitis
+1800,"Arrhythmia, Sinus"
+1801,Fibroma
+1802,Heat Exhaustion
+1803,Lymphadenitis
+1804,"Neoplasms, Complex and Mixed"
+1805,Photosensitivity Disorders
+1806,"Lymphoma, T-Cell"
+1807,Leukemia L1210
+1808,Abducens Nerve Injury
+1809,"Skin Diseases, Papulosquamous"
+1810,Wolfram Syndrome
+1811,Apnea
+1812,"Arrhythmias, Cardiac"
+1813,"Malocclusion, Angle Class I"
+1814,Zollinger-Ellison Syndrome
+1815,Bartter Syndrome
+1816,Ankle Injuries
+1817,Decerebrate State
+1818,Hemothorax
+1819,Asphyxia Neonatorum
+1820,Asthma
+1821,AIDS Dementia Complex
+1822,Inappropriate ADH Syndrome
+1823,Sex Chromosome Aberrations
+1824,"Sarcoma, Myeloid"
+1825,"Glaucoma, Neovascular"
+1826,"Infertility, Male"
+1827,Treponemal Infections
+1828,"Pregnancy, Ectopic"
+1829,Dysphonia
+1830,Uveomeningoencephalitic Syndrome
+1831,Aniridia
+1832,Neurothekeoma
+1833,Postpartum Hemorrhage
+1834,Colloid Cysts
+1835,Palatal Neoplasms
+1836,"von Willebrand Disease, Type 2"
+1837,"Empyema, Pleural"
+1838,Hyperparathyroidism
+1839,"Chondrodysplasia Punctata, Rhizomelic"
+1840,Adrenal Insufficiency
+1841,"Panniculitis, Peritoneal"
+1842,Infectious Bovine Rhinotracheitis
+1843,Rare Diseases
+1844,"Anemia, Pernicious"
+1845,Eye Manifestations
+1846,Nail Diseases
+1847,Thoracic Injuries
+1848,Anodontia
+1849,"Tachycardia, Sinus"
+1850,Urinary Bladder Neck Obstruction
+1851,Mutism
+1852,Acneiform Eruptions
+1853,Cranial Nerve Neoplasms
+1854,"Carcinoma, Giant Cell"
+1855,Paresthesia
+1856,Tooth Migration
+1857,Hypolipoproteinemias
+1858,Dysostoses
+1859,Postoperative Complications
+1860,Spinal Fractures
+1861,Metatarsalgia
+1862,Retinal Degeneration
+1863,Roseolovirus Infections
+1864,Isochromosomes
+1865,Morning Sickness
+1866,Glomus Jugulare Tumor
+1867,Osteitis
+1868,Epidermolysis Bullosa Dystrophica
+1869,Retrobulbar Hemorrhage
+1870,Tenosynovitis
+1871,Noma
+1872,Polymyositis
+1873,Myxosarcoma
+1874,Osteochondrodysplasias
+1875,Thecoma
+1876,Hyperthyroidism
+1877,Optic Nerve Diseases
+1878,Bronchopneumonia
+1879,Calcinosis
+1880,"Sarcoma, Avian"
+1881,Tetrasomy
+1882,Coronary Restenosis
+1883,"Neoplasms, Gonadal Tissue"
+1884,Muscle Cramp
+1885,Dyspareunia
+1886,Mucoepidermoid Tumor
+1887,Gambling
+1888,Typhoid Fever
+1889,Urticaria
+1890,Heart Block
+1891,"Leukemia, Mast-Cell"
+1892,"Cardiomyopathy, Alcoholic"
+1893,Obesity
+1894,Central Nervous System Viral Diseases
+1895,"Skin Diseases, Eczematous"
+1896,"Hemangioma, Cavernous, Central Nervous System"
+1897,Tooth Discoloration
+1898,"Cholestasis, Extrahepatic"
+1899,Werner Syndrome
+1900,Anterior Spinal Artery Syndrome
+1901,Byssinosis
+1902,"Pyruvate Metabolism, Inborn Errors"
+1903,Lymphocele
+1904,"Eye Diseases, Hereditary"
+1905,Pain
+1906,Polycystic Ovary Syndrome
+1907,Acid-Base Imbalance
+1908,"Arthritis, Psoriatic"
+1909,Jaundice
+1910,Asperger Syndrome
+1911,Fructose Intolerance
+1912,Attention Deficit and Disruptive Behavior Disorders
+1913,"Jaundice, Chronic Idiopathic"
+1914,Schistosomiasis japonica
+1915,Eye Foreign Bodies
+1916,Acalculous Cholecystitis
+1917,"Metal Metabolism, Inborn Errors"
+1918,Incontinentia Pigmenti
+1919,Thyrotoxicosis
+1920,Jaw Diseases
+1921,Carotid Body Tumor
+1922,"Schizophrenia, Childhood"
+1923,HIV Infections
+1924,Tumor Lysis Syndrome
+1925,Paresis
+1926,Post-Traumatic Headache
+1927,"Infarction, Middle Cerebral Artery"
+1928,Pneumonia
+1929,"Albinism, Oculocutaneous"
+1930,"Hernia, Hiatal"
+1931,Laryngismus
+1932,"Pregnancy Complications, Hematologic"
+1933,Vascular System Injuries
+1934,Lung Diseases
+1935,"Infertility, Female"
+1936,Vitamin D Deficiency
+1937,Factitious Disorders
+1938,Intracranial Arteriosclerosis
+1939,Velopharyngeal Insufficiency
+1940,Mucocele
+1941,Wet Macular Degeneration
+1942,Leukocytosis
+1943,Aortic Valve Prolapse
+1944,Meige Syndrome
+1945,Oculomotor Nerve Diseases
+1946,Sublingual Gland Neoplasms
+1947,Fallopian Tube Neoplasms
+1948,"Hyperbilirubinemia, Hereditary"
+1949,Persistent Fetal Circulation Syndrome
+1950,Craniofacial Abnormalities
+1951,Hemorrhage
+1952,Hyperopia
+1953,Urinary Retention
+1954,"Cardiac Complexes, Premature"
+1955,"Candidiasis, Vulvovaginal"
+1956,Abetalipoproteinemia
+1957,Hyperlysinemias
+1958,"Tuberculosis, Renal"
+1959,"Hernia, Umbilical"
+1960,Dyslipidemias
+1961,Exocrine Pancreatic Insufficiency
+1962,Water-Electrolyte Imbalance
+1963,Antisocial Personality Disorder
+1964,Leiomyomatosis
+1965,Ocular Motility Disorders
+1966,"Tachycardia, Reciprocating"
+1967,Kearns-Sayre Syndrome
+1968,"Epilepsy, Partial, Motor"
+1969,Herpes Genitalis
+1970,Adrenocortical Adenoma
+1971,Aneurysm
+1972,"Substance Abuse, Intravenous"
+1973,Serratia Infections
+1974,Andersen Syndrome
+1975,Amyotrophic Lateral Sclerosis
+1976,"Dermatitis, Phototoxic"
+1977,"Granuloma, Lethal Midline"
+1978,Hyaline Membrane Disease
+1979,Brachial Plexus Neuropathies
+1980,Optic Nerve Glioma
+1981,von Hippel-Lindau Disease
+1982,AIDS-Associated Nephropathy
+1983,Cerebral Ventriculitis
+1984,"Impotence, Vasculogenic"
+1985,Common Bile Duct Diseases
+1986,Pulmonary Sclerosing Hemangioma
+1987,Job's Syndrome
+1988,Enteritis
+1989,"Alexia, Pure"
+1990,Focal Dermal Hypoplasia
+1991,Pneumoconiosis
+1992,Urinary Bladder Fistula
+1993,Lacerations
+1994,Hypertriglyceridemia
+1995,"Liposarcoma, Myxoid"
+1996,Urethral Neoplasms
+1997,Pleural Diseases
+1998,"Neoplasms, Adnexal and Skin Appendage"
+1999,Q Fever
+2000,"Adenoma, Oxyphilic"
+2001,"Fibromatosis, Aggressive"
+2002,Colitis
+2003,Ileal Diseases
+2004,Precancerous Conditions
+2005,"Megacolon, Toxic"
+2006,Extravasation of Diagnostic and Therapeutic Materials
+2007,Tibial Fractures
+2008,"Eye Infections, Parasitic"
+2009,HTLV-I Infections
+2010,Soft Tissue Neoplasms
+2011,Agricultural Workers' Diseases
+2012,Neurotoxicity Syndromes
+2013,Myoclonus
+2014,"Plaque, Amyloid"
+2015,Subacute Combined Degeneration
+2016,Ulcer
+2017,"Osteoarthritis, Spine"
+2018,"Gastritis, Atrophic"
+2019,Glomus Tympanicum Tumor
+2020,Tick-Borne Diseases
+2021,"Epilepsies, Partial"
+2022,Sphingolipidoses
+2023,Isolated Noncompaction of the Ventricular Myocardium
+2024,Strongyloidiasis
+2025,"Pneumonia, Viral"
+2026,Enzootic Bovine Leukosis
+2027,Atrial Fibrillation
+2028,Tay-Sachs Disease
+2029,Sensation Disorders
+2030,Hepatic Insufficiency
+2031,"Burns, Chemical"
+2032,Fetal Nutrition Disorders
+2033,Mobius Syndrome
+2034,"Neoplasms, Post-Traumatic"
+2035,Hypercholesterolemia
+2036,Eosinophilia-Myalgia Syndrome
+2037,Granuloma Annulare
+2038,Adenomatous Polyps
+2039,Gait Apraxia
+2040,"Leukemia, Neutrophilic, Chronic"
+2041,Multiple Sclerosis
+2042,Immunoproliferative Disorders
+2043,Pleural Neoplasms
+2044,Pregnancy Complications
+2045,"Pulmonary Disease, Chronic Obstructive"
+2046,Hand Deformities
+2047,Mouth Breathing
+2048,Hypoparathyroidism
+2049,Gastric Fistula
+2050,Gynecomastia
+2051,"Malocclusion, Angle Class III"
+2052,"Angina Pectoris, Variant"
+2053,Gastritis
+2054,Neuroblastoma
+2055,Acidosis
+2056,Achlorhydria
+2057,"Acidosis, Lactic"
+2058,Radius Fractures
+2059,Rickets
+2060,Pancreatic Diseases
+2061,Feline Infectious Peritonitis
+2062,"Cicatrix, Hypertrophic"
+2063,"Osteoarthritis, Knee"
+2064,Hyperinsulinism
+2065,Mucopolysaccharidosis IV
+2066,Gastrinoma
+2067,"Adenocarcinoma, Scirrhous"
+2068,Bone Cysts
+2069,"Hearing Loss, Sensorineural"
+2070,Neurotic Disorders
+2071,"Urea Cycle Disorders, Inborn"
+2072,Neurocysticercosis
+2073,Ovotesticular Disorders of Sex Development
+2074,Adenocarcinoma
+2075,"Diverticulitis, Colonic"
+2076,Leukemia
+2077,Intussusception
+2078,Mesenteric Vascular Occlusion
+2079,"Neoplasm, Residual"
+2080,Jaw Cysts
+2081,Auditory Perceptual Disorders
+2082,"Carcinoma, Krebs 2"
+2083,Myopia
+2084,"Fractures, Bone"
+2085,"Bulbar Palsy, Progressive"
+2086,Mandibular Fractures
+2087,Hyper-IgM Immunodeficiency Syndrome
+2088,"Adenoma, Basophil"
+2089,"Still's Disease, Adult-Onset"
+2090,Vaginal Fistula
+2091,Gas Poisoning
+2092,Folic Acid Deficiency
+2093,Amebiasis
+2094,MELAS Syndrome
+2095,Maxillary Neoplasms
+2096,"Dermatitis, Exfoliative"
+2097,"Encephalitis, Japanese"
+2098,"Cystadenocarcinoma, Serous"
+2099,"Lipomatosis, Multiple Symmetrical"
+2100,Chancre
+2101,Keratoacanthoma
+2102,Osteoarthritis
+2103,Alstrom Syndrome
+2104,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+2105,"Thyroiditis, Autoimmune"
+2106,Retroviridae Infections
+2107,Confusion
+2108,Femoral Fractures
+2109,Migraine Disorders
+2110,"Leukemia, Myelomonocytic, Chronic"
+2111,"Aphasia, Wernicke"
+2112,Wernicke Encephalopathy
+2113,"Bone Cysts, Aneurysmal"
+2114,Rectovaginal Fistula
+2115,Osteopoikilosis
+2116,Intestinal Polyps
+2117,Cryptorchidism
+2118,Telangiectasis
+2119,Hookworm Infections
+2120,Oesophagostomiasis
+2121,"Paget Disease, Extramammary"
+2122,Refeeding Syndrome
+2123,Hepatitis E
+2124,Zenker Diverticulum
+2125,Enterotoxemia
+2126,Ganglion Cysts
+2127,Dysmenorrhea
+2128,Albinism
+2129,Stomach Ulcer
+2130,Tinea Versicolor
+2131,XYY Karyotype
+2132,Rhinitis
+2133,Fecal Impaction
+2134,Vestibular Diseases
+2135,"Myxomatosis, Infectious"
+2136,Erysipelothrix Infections
+2137,"Dermatitis, Contact"
+2138,Caroli Disease
+2139,Hidrocystoma
+2140,Deaf-Blind Disorders
+2141,"Eye Infections, Bacterial"
+2142,Meconium Aspiration Syndrome
+2143,Neurogenic Bowel
+2144,Mucopolysaccharidosis VII
+2145,Camurati-Engelmann Syndrome
+2146,Subcutaneous Emphysema
+2147,Afferent Loop Syndrome
+2148,Enterocolitis
+2149,"Polycystic Kidney, Autosomal Recessive"
+2150,Vipoma
+2151,"Spherocytosis, Hereditary"
+2152,POEMS Syndrome
+2153,"Meningitis, Viral"
+2154,Desmoplastic Small Round Cell Tumor
+2155,Onycholysis
+2156,"Cell Transformation, Neoplastic"
+2157,Perceptual Disorders
+2158,Sex Chromosome Disorders
+2159,Respiratory Aspiration
+2160,"Lead Poisoning, Nervous System, Childhood"
+2161,Hepatolenticular Degeneration
+2162,Atrial Premature Complexes
+2163,Binge-Eating Disorder
+2164,Cataplexy
+2165,Developmental Disabilities
+2166,LEOPARD Syndrome
+2167,"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative"
+2168,Glycogen Storage Disease Type I
+2169,"Dementia, Vascular"
+2170,Echolalia
+2171,Melanoma
+2172,Sweat Gland Neoplasms
+2173,Ganglioglioma
+2174,Osteonecrosis
+2175,Hypereosinophilic Syndrome
+2176,"Hernia, Abdominal"
+2177,Polyomavirus Infections
+2178,"Panniculitis, Lupus Erythematosus"
+2179,Chronic Disease
+2180,"Anemia, Myelophthisic"
+2181,"Ectromelia, Infectious"
+2182,"Graft Occlusion, Vascular"
+2183,Bowen's Disease
+2184,Mycoses
+2185,Whooping Cough
+2186,"Dermatitis, Toxicodendron"
+2187,Mucopolysaccharidosis VI
+2188,Mixed Connective Tissue Disease
+2189,Paranasal Sinus Diseases
+2190,Gingival Recession
+2191,"Abortion, Veterinary"
+2192,Ochronosis
+2193,Iris Diseases
+2194,Atrioventricular Block
+2195,Encephalomalacia
+2196,Pseudohypoaldosteronism
+2197,Clubfoot
+2198,"Obstetric Labor, Premature"
+2199,Skin Neoplasms
+2200,Usher Syndromes
+2201,"Pregnancy Complications, Infectious"
+2202,"Asthma, Aspirin-Induced"
+2203,Hypoaldosteronism
+2204,"Hamartoma Syndrome, Multiple"
+2205,Giant Axonal Neuropathy
+2206,Patellofemoral Pain Syndrome
+2207,Presbyopia
+2208,Piedra
+2209,Salpingitis
+2210,"Lymphoma, Non-Hodgkin"
+2211,ACTH-Secreting Pituitary Adenoma
+2212,Endodermal Sinus Tumor
+2213,Basal Ganglia Diseases
+2214,Cryoglobulinemia
+2215,Hepatopulmonary Syndrome
+2216,"Carotid Artery, Internal, Dissection"
+2217,"Carcinoma, Skin Appendage"
+2218,"Gingivitis, Necrotizing Ulcerative"
+2219,Neurocirculatory Asthenia
+2220,Galactorrhea
+2221,"Mastocytosis, Cutaneous"
+2222,"Pregnancy, Abdominal"
+2223,Tonic Pupil
+2224,"Myopathy, Central Core"
+2225,Foreign Bodies
+2226,Ascariasis
+2227,Vulvitis
+2228,Pancreatic Cyst
+2229,"Encephalopathy, Bovine Spongiform"
+2230,Bacteroidaceae Infections
+2231,Spondylitis
+2232,Primary Graft Dysfunction
+2233,Sleep Disorders
+2234,Meniere Disease
+2235,Testicular Neoplasms
+2236,"Foot Deformities, Congenital"
+2237,Esophageal Cyst
+2238,"Anemia, Sickle Cell"
+2239,Bursitis
+2240,Hepatitis C
+2241,"Hypertension, Renal"
+2242,Abdominal Injuries
+2243,Spinal Cord Neoplasms
+2244,Mouth Diseases
+2245,Endocardial Fibroelastosis
+2246,Porphyria Cutanea Tarda
+2247,"Thyroiditis, Suppurative"
+2248,Cephalopelvic Disproportion
+2249,Urologic Diseases
+2250,Williams Syndrome
+2251,Lymphomatoid Granulomatosis
+2252,Bulimia Nervosa
+2253,Muscle Neoplasms
+2254,Acanthamoeba Keratitis
+2255,"Amyloid Neuropathies, Familial"
+2256,"Fasciitis, Plantar"
+2257,"Tuberculosis, Endocrine"
+2258,Disease Susceptibility
+2259,Laryngeal Diseases
+2260,"Pulmonary Adenomatosis, Ovine"
+2261,"Rhinitis, Allergic, Perennial"
+2262,Lacrimal Duct Obstruction
+2263,Acrocephalosyndactylia
+2264,Macular Degeneration
+2265,"Hemangioma, Cavernous"
+2266,Glucose Metabolism Disorders
+2267,Lipidoses
+2268,Ossification of Posterior Longitudinal Ligament
+2269,Neuroectodermal Tumors
+2270,"Infarction, Anterior Cerebral Artery"
+2271,"Liver Abscess, Amebic"
+2272,"Lung, Hyperlucent"
+2273,Glomus Tumor
+2274,Bronchial Spasm
+2275,Brain Injuries
+2276,Poliomyelitis
+2277,Pityriasis Rosea
+2278,"Apraxia, Ideomotor"
+2279,Infertility
+2280,Rhabdomyoma
+2281,Tachycardia
+2282,Bernard-Soulier Syndrome
+2283,Tracheomalacia
+2284,"Genetic Diseases, Inborn"
+2285,Herpes Zoster Oticus
+2286,Hyperglycemic Hyperosmolar Nonketotic Coma
+2287,"Jaundice, Neonatal"
+2288,"Wounds, Nonpenetrating"
+2289,Bartonella Infections
+2290,Dystonia Musculorum Deformans
+2291,Renal Insufficiency
+2292,"Tachycardia, Paroxysmal"
+2293,"Mental Retardation, X-Linked"
+2294,Central Nervous System Venous Angioma
+2295,Zygomatic Fractures
+2296,Ataxia
+2297,"Neoplasms, Adipose Tissue"
+2298,Cerebellar Neoplasms
+2299,"Albinism, Ocular"
+2300,Facial Nerve Diseases
+2301,"Protozoan Infections, Animal"
+2302,Smith-Magenis Syndrome
+2303,"Ecthyma, Contagious"
+2304,"Typhus, Epidemic Louse-Borne"
+2305,"Hydrocephalus, Normal Pressure"
+2306,Cryptococcosis
+2307,Jet Lag Syndrome
+2308,Anxiety Disorders
+2309,Androgen-Insensitivity Syndrome
+2310,"Paget's Disease, Mammary"
+2311,"Encephalomyelitis, Eastern Equine"
+2312,"Twins, Conjoined"
+2313,Postphlebitic Syndrome
+2314,Sarcopenia
+2315,Anthrax
+2316,"Syphilis, Cardiovascular"
+2317,"Brucellosis, Bovine"
+2318,Meningeal Neoplasms
+2319,"Anemia, Hemolytic, Congenital Nonspherocytic"
+2320,Elephantiasis
+2321,Lead Poisoning
+2322,Dermoid Cyst
+2323,Coronaviridae Infections
+2324,Bovine Respiratory Disease Complex
+2325,Kernicterus
+2326,Primary Myelofibrosis
+2327,"Anticipation, Genetic"
+2328,Lymphoproliferative Disorders
+2329,Splenomegaly
+2330,Pelvic Neoplasms
+2331,Cor Triatriatum
+2332,Hemifacial Spasm
+2333,Prostatic Diseases
+2334,Respiratory Insufficiency
+2335,Neuromuscular Diseases
+2336,Dental Caries
+2337,Leprosy
+2338,Schnitzler Syndrome
+2339,Pierre Robin Syndrome
+2340,Favism
+2341,Acrodermatitis
+2342,"Encephalitis, California"
+2343,Hyperemia
+2344,Osteosarcoma
+2345,Calcium Metabolism Disorders
+2346,Vulvar Diseases
+2347,Status Asthmaticus
+2348,Retinal Hemorrhage
+2349,"Subarachnoid Hemorrhage, Traumatic"
+2350,"Meningitis, Meningococcal"
+2351,Retropharyngeal Abscess
+2352,Frontal Sinusitis
+2353,Night Terrors
+2354,"Alcohol-Induced Disorders, Nervous System"
+2355,"Neuroectodermal Tumor, Melanotic"
+2356,Enchondromatosis
+2357,Alcohol-Related Disorders
+2358,Growth Hormone-Secreting Pituitary Adenoma
+2359,Prurigo
+2360,Pregnancy in Diabetics
+2361,Antley-Bixler Syndrome Phenotype
+2362,Chancroid
+2363,Craniocerebral Trauma
+2364,Dermatomycoses
+2365,Hemangiopericytoma
+2366,Dyskeratosis Congenita
+2367,Tracheoesophageal Fistula
+2368,"Genital Neoplasms, Male"
+2369,Dependent Personality Disorder
+2370,Pupil Disorders
+2371,Glycogen Storage Disease Type VIII
+2372,"Endocarditis, Subacute Bacterial"
+2373,Reflex Sympathetic Dystrophy
+2374,Intestinal Fistula
+2375,Ehlers-Danlos Syndrome
+2376,Pleuropneumonia
+2377,Tension-Type Headache
+2378,"Cystadenoma, Papillary"
+2379,"Aortic Stenosis, Supravalvular"
+2380,"Carcinoma, Ehrlich Tumor"
+2381,Solitary Pulmonary Nodule
+2382,Pterygium
+2383,Ehrlichiosis
+2384,Dysplastic Nevus Syndrome
+2385,Eye Hemorrhage
+2386,Mood Disorders
+2387,Brain Diseases
+2388,Erysipelas
+2389,Pulmonary Aspergillosis
+2390,Spinal Injuries
+2391,Pantothenate Kinase-Associated Neurodegeneration
+2392,Foot Injuries
+2393,"Leukemia, Feline"
+2394,Laryngeal Neoplasms
+2395,Hypospadias
+2396,"Encephalitis, Arbovirus"
+2397,Esophagitis
+2398,Parotid Diseases
+2399,Cervical Intraepithelial Neoplasia
+2400,"Dysautonomia, Familial"
+2401,Heat Stress Disorders
+2402,Cestode Infections
+2403,Schizoid Personality Disorder
+2404,"Tachycardia, Ectopic Atrial"
+2405,Microscopic Polyangiitis
+2406,Brown-Sequard Syndrome
+2407,Mirizzi Syndrome
+2408,Hydranencephaly
+2409,"Hyperostosis, Cortical, Congenital"
+2410,Gitelman Syndrome
+2411,Tarsal Tunnel Syndrome
+2412,"Epiphyses, Slipped"
+2413,"Myasthenia Gravis, Autoimmune, Experimental"
+2414,Systemic Vasculitis
+2415,Infantile Apparent Life-Threatening Event
+2416,"Granuloma, Giant Cell"
+2417,"Wasting Disease, Chronic"
+2418,Botulism
+2419,Cross Infection
+2420,Parathyroid Diseases
+2421,Cerebrovascular Trauma
+2422,Genomic Instability
+2423,"Kidney Tubular Necrosis, Acute"
+2424,Puerperal Disorders
+2425,Carbamoyl-Phosphate Synthase I Deficiency Disease
+2426,Histiocytic Sarcoma
+2427,Pulmonary Edema
+2428,Persistent Hyperinsulinemia Hypoglycemia of Infancy
+2429,"Regurgitation, Gastric"
+2430,DNA Repair-Deficiency Disorders
+2431,Escherichia coli Infections
+2432,Echinostomiasis
+2433,Thiamine Deficiency
+2434,Borrelia Infections
+2435,"Brain Damage, Chronic"
+2436,Spondylolysis
+2437,"Toxoplasmosis, Congenital"
+2438,"Gangliosidosis, GM1"
+2439,Cognition Disorders
+2440,Dysgammaglobulinemia
+2441,Tendinopathy
+2442,"Purine-Pyrimidine Metabolism, Inborn Errors"
+2443,"Arthropathy, Neurogenic"
+2444,Tongue Neoplasms
+2445,"Hearing Loss, Unilateral"
+2446,"Arthritis, Juvenile Rheumatoid"
+2447,Bronchomalacia
+2448,"Delirium, Dementia, Amnestic, Cognitive Disorders"
+2449,Neural Tube Defects
+2450,Nocturnal Myoclonus Syndrome
+2451,Border Disease
+2452,Shared Paranoid Disorder
+2453,Ocular Hypotension
+2454,"Heart Septal Defects, Atrial"
+2455,Streptococcal Infections
+2456,Common Cold
+2457,Purpura
+2458,Neointima
+2459,"Hemangioendothelioma, Epithelioid"
+2460,Urogenital Abnormalities
+2461,"Epilepsy, Benign Neonatal"
+2462,Back Pain
+2463,Urination Disorders
+2464,Deltaretrovirus Infections
+2465,Dental Leakage
+2466,Hepatitis B
+2467,"Hyalinosis, Systemic"
+2468,Thanatophoric Dysplasia
+2469,Jejunal Diseases
+2470,"Death, Sudden, Cardiac"
+2471,Dacryocystitis
+2472,"Sarcoma, Kaposi"
+2473,"Tongue, Fissured"
+2474,"Hypertension, Pregnancy-Induced"
+2475,Migraine without Aura
+2476,Low Tension Glaucoma
+2477,Monosomy
+2478,Gingival Overgrowth
+2479,Thrombocytopenia
+2480,Tonsillar Neoplasms
+2481,Follicular Cyst
+2482,"Amnesia, Transient Global"
+2483,Shock
+2484,Tracheitis
+2485,Tick Infestations
+2486,Heart Valve Diseases
+2487,Appendicitis
+2488,"Abnormalities, Multiple"
+2489,Lewy Body Disease
+2490,"Sarcoma, Alveolar Soft Part"
+2491,Tricuspid Valve Stenosis
+2492,"Tuberculosis, Urogenital"
+2493,Iridocyclitis
+2494,Tinea Pedis
+2495,Adrenocortical Hyperfunction
+2496,Premature Birth
+2497,Iron Overload
+2498,Morbillivirus Infections
+2499,"Pneumonia, Bacterial"
+2500,Brain Edema
+2501,Horner Syndrome
+2502,RNA Virus Infections
+2503,Thymus Hyperplasia
+2504,Acrocallosal Syndrome
+2505,Diverticulitis
+2506,Inflammatory Breast Neoplasms
+2507,Arteriolosclerosis
+2508,Fungemia
+2509,Orthomyxoviridae Infections
+2510,Tooth Avulsion
+2511,"Anemia, Hemolytic"
+2512,Illusions
+2513,Lateral Medullary Syndrome
+2514,Oroantral Fistula
+2515,Skin Ulcer
+2516,Hypopituitarism
+2517,"Pneumonia, Lipid"
+2518,Eisenmenger Complex
+2519,Alagille Syndrome
+2520,Diabetes Mellitus
+2521,Adrenal Gland Neoplasms
+2522,Neuralgia
+2523,Appendiceal Neoplasms
+2524,"Myasthenia Gravis, Neonatal"
+2525,Plummer-Vinson Syndrome
+2526,"Genetic Diseases, X-Linked"
+2527,Nephrosclerosis
+2528,Vitreous Hemorrhage
+2529,Coccidiosis
+2530,Fluoride Poisoning
+2531,Dermatomyositis
+2532,"Translocation, Genetic"
+2533,Phosphorus Metabolism Disorders
+2534,Catheter-Related Infections
+2535,Uterine Rupture
+2536,Postcholecystectomy Syndrome
+2537,Meningomyelocele
+2538,Pulmonary Infarction
+2539,Levocardia
+2540,Hypokalemia
+2541,Carotid Stenosis
+2542,Arteriovenous Fistula
+2543,"Hearing Loss, Conductive"
+2544,"Aneurysm, Infected"
+2545,"Asthma, Exercise-Induced"
+2546,Cyclosporiasis
+2547,Epilepsia Partialis Continua
+2548,Gastroparesis
+2549,Hypercalcemia
+2550,Metrorrhagia
+2551,Chorioretinitis
+2552,Darier Disease
+2553,Reye Syndrome
+2554,Neuroacanthocytosis
+2555,Proteus Syndrome
+2556,"Foot Deformities, Acquired"
+2557,"Diverticulum, Colon"
+2558,Rosacea
+2559,Erythromelalgia
+2560,Spinal Osteophytosis
+2561,Endotoxemia
+2562,Hearing Loss
+2563,Pseudoxanthoma Elasticum
+2564,"Histiocytosis, Langerhans-Cell"
+2565,Cryptosporidiosis
+2566,Tinea
+2567,Neonatal Abstinence Syndrome
+2568,Adrenal Rest Tumor
+2569,Lice Infestations
+2570,Myocardial Reperfusion Injury
+2571,"Histiocytoma, Benign Fibrous"
+2572,Peripheral Nervous System Neoplasms
+2573,Kyphosis
+2574,Bunyaviridae Infections
+2575,Carcinoma in Situ
+2576,"Neoplasms, Mesothelial"
+2577,Serositis
+2578,Sarcoma 180
+2579,Trichostrongyloidiasis
+2580,Glomerulonephritis
+2581,Hemiplegia
+2582,Eosinophilic Esophagitis
+2583,Bird Fancier's Lung
+2584,Hypothyroidism
+2585,Nocturnal Enuresis
+2586,"Carcinoma, Mucoepidermoid"
+2587,Cerebral Infarction
+2588,Budd-Chiari Syndrome
+2589,Chlamydia Infections
+2590,Sick Building Syndrome
+2591,"Akathisia, Drug-Induced"
+2592,Adrenocortical Carcinoma
+2593,"Keratitis, Herpetic"
+2594,Potassium Deficiency
+2595,"Thyroiditis, Subacute"
+2596,Orthostatic Intolerance
+2597,Epidural Abscess
+2598,Oropharyngeal Neoplasms
+2599,Dysthymic Disorder
+2600,Hypertension
+2601,Hypothalamic Neoplasms
+2602,Mediastinitis
+2603,Immune Reconstitution Inflammatory Syndrome
+2604,Macrophage Activation Syndrome
+2605,Postural Orthostatic Tachycardia Syndrome
+2606,"Infant, Premature, Diseases"
+2607,Lymphopenia
+2608,Torsion Abnormality
+2609,Choroid Diseases
+2610,Tetralogy of Fallot
+2611,Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis
+2612,Foot Dermatoses
+2613,Urinary Bladder Diseases
+2614,Optic Disk Drusen
+2615,Simian Acquired Immunodeficiency Syndrome
+2616,Asphyxia
+2617,Cholangiocarcinoma
+2618,Digestive System Fistula
+2619,Coronary Stenosis
+2620,Frontotemporal Lobar Degeneration
+2621,Ileitis
+2622,Psychotic Disorders
+2623,Vertebrobasilar Insufficiency
+2624,"Pneumonia, Ventilator-Associated"
+2625,Dentin Sensitivity
+2626,"Alveolitis, Extrinsic Allergic"
+2627,Conjunctivitis
+2628,"Diverticulosis, Colonic"
+2629,Maxillary Diseases
+2630,Hypodermyiasis
+2631,Schizotypal Personality Disorder
+2632,Rib Fractures
+2633,Sporotrichosis
+2634,Adams-Stokes Syndrome
+2635,"Cerebral Hemorrhage, Traumatic"
+2636,Inferior Wall Myocardial Infarction
+2637,Disseminated Intravascular Coagulation
+2638,"Fractures, Malunited"
+2639,Lymphoma
+2640,Metaplasia
+2641,Periodontal Pocket
+2642,Tooth Abnormalities
+2643,Central Serous Chorioretinopathy
+2644,"Bone Demineralization, Pathologic"
+2645,Uterine Cervical Neoplasms
+2646,Spermatocele
+2647,Lupus Vulgaris
+2648,"Fractures, Ununited"
+2649,Malignant Catarrh
+2650,Whipple Disease
+2651,Nevus of Ota
+2652,Abducens Nerve Diseases
+2653,"Glomerulonephritis, IGA"
+2654,Hyperphosphatemia
+2655,Jaw Neoplasms
+2656,Lafora Disease
+2657,Anemia
+2658,"Fetal Membranes, Premature Rupture"
+2659,"Alkalosis, Respiratory"
+2660,Learning Disorders
+2661,"Heredodegenerative Disorders, Nervous System"
+2662,Smith-Lemli-Opitz Syndrome
+2663,Gallstones
+2664,Cytomegalovirus Infections
+2665,Phlebotomus Fever
+2666,"Demyelinating Autoimmune Diseases, CNS"
+2667,Lichen Nitidus
+2668,Congenital Disorders of Glycosylation
+2669,Convalescence
+2670,Otosclerosis
+2671,Pancytopenia
+2672,Acanthosis Nigricans
+2673,Histiocytoma
+2674,Paraneoplastic Endocrine Syndromes
+2675,Respiratory Syncytial Virus Infections
+2676,Machado-Joseph Disease
+2677,Germinoma
+2678,Hepatic Encephalopathy
+2679,Arachnoid Cysts
+2680,Hypertrophy
+2681,"Echinococcosis, Hepatic"
+2682,"Malaria, Avian"
+2683,Klippel-Feil Syndrome
+2684,"Stress Disorders, Traumatic, Acute"
+2685,Carotid Artery Injuries
+2686,Gingival Hemorrhage
+2687,Sagittal Sinus Thrombosis
+2688,Myotonia Congenita
+2689,Giant Cell Tumor of Bone
+2690,"Leukemia, Megakaryoblastic, Acute"
+2691,Cystic Fibrosis
+2692,Hypovolemia
+2693,"Cystadenocarcinoma, Mucinous"
+2694,Vitamin B Deficiency
+2695,"Neoplasms, Connective and Soft Tissue"
+2696,Asthenopia
+2697,Breast Diseases
+2698,Gliosis
+2699,Pneumocystis Infections
+2700,Retropneumoperitoneum
+2701,Erectile Dysfunction
+2702,Encephalitozoonosis
+2703,Exotropia
+2704,"Goiter, Nodular"
+2705,Thalamic Diseases
+2706,Tremor
+2707,Leukocyte Disorders
+2708,Hyperbilirubinemia
+2709,"Arthritis, Reactive"
+2710,"Hematoma, Subdural, Chronic"
+2711,Cellulitis
+2712,Intestinal Perforation
+2713,"Neoplasms, Glandular and Epithelial"
+2714,Aortic Valve Insufficiency
+2715,Syncope
+2716,Plague
+2717,Cerebral Ventricle Neoplasms
+2718,Diabetic Angiopathies
+2719,Larva Migrans
+2720,Pemphigoid Gestationis
+2721,Mycosis Fungoides
+2722,Angioid Streaks
+2723,"Carcinoma, Transitional Cell"
+2724,Mononeuropathies
+2725,Olivopontocerebellar Atrophies
+2726,Pyomyositis
+2727,"Lymphoma, Large-Cell, Anaplastic"
+2728,Hernia
+2729,Septo-Optic Dysplasia
+2730,Macular Edema
+2731,Coccidioidomycosis
+2732,Mandibular Diseases
+2733,Ainhum
+2734,Trichothiodystrophy Syndromes
+2735,Uterine Cervicitis
+2736,Ureteral Neoplasms
+2737,Empty Sella Syndrome
+2738,Peliosis Hepatis
+2739,"Nystagmus, Pathologic"
+2740,Balkan Nephropathy
+2741,Neurofibromatoses
+2742,Out-of-Hospital Cardiac Arrest
+2743,"Hernia, Ventral"
+2744,"Glomerulonephritis, Membranous"
+2745,Pulmonary Veno-Occlusive Disease
+2746,Pellagra
+2747,Reperfusion Injury
+2748,Intestinal Diseases
+2749,Fragile X Syndrome
+2750,Vestibulocochlear Nerve Diseases
+2751,Neuromyelitis Optica
+2752,"Myopathies, Structural, Congenital"
+2753,"ACTH Syndrome, Ectopic"
+2754,"Decalcification, Pathologic"
+2755,Hypoglycemia
+2756,Arm Injuries
+2757,Calculi
+2758,Hemangioendothelioma
+2759,Fibromuscular Dysplasia
+2760,"Fractures, Cartilage"
+2761,Jaw Abnormalities
+2762,Angiomatosis
+2763,Optic Neuritis
+2764,"Carcinoma, Pancreatic Ductal"
+2765,Colonic Polyps
+2766,Hemophilia B
+2767,Neuroaxonal Dystrophies
+2768,Penile Diseases
+2769,"Renal Tubular Transport, Inborn Errors"
+2770,Kallmann Syndrome
+2771,"Neoplasms, Vascular Tissue"
+2772,Pseudobulbar Palsy
+2773,Arteriosclerosis Obliterans
+2774,Chondroblastoma
+2775,Trochlear Nerve Diseases
+2776,Rh Isoimmunization
+2777,Carcinosarcoma
+2778,"Anemia, Hemolytic, Autoimmune"
+2779,Factor XI Deficiency
+2780,Ichthyosis
+2781,Cytochrome-c Oxidase Deficiency
+2782,Platelet Storage Pool Deficiency
+2783,Hydrarthrosis
+2784,Polyradiculopathy
+2785,Nasal Polyps
+2786,Craniomandibular Disorders
+2787,Trench Fever
+2788,"Bone Diseases, Developmental"
+2789,Cranial Nerve Diseases
+2790,Amaurosis Fugax
+2791,Holoprosencephaly
+2792,Prosopagnosia
+2793,Acute Kidney Injury
+2794,Prostatitis
+2795,Cocaine-Related Disorders
+2796,Protein C Deficiency
+2797,Lutembacher Syndrome
+2798,Thymoma
+2799,"Leprosy, Multibacillary"
+2800,Headache
+2801,Diseases in Twins
+2802,Spasm
+2803,HIV Seropositivity
+2804,Food Hypersensitivity
+2805,Hematometra
+2806,"Aneurysm, Dissecting"
+2807,"Adrenal Hyperplasia, Congenital"
+2808,Duodenitis
+2809,Proteus Infections
+2810,Sparganosis
+2811,Monkeypox
+2812,Ventricular Dysfunction
+2813,Plant Poisoning
+2814,Post-Concussion Syndrome
+2815,Tuberculosis
+2816,Limbic Encephalitis
+2817,"Adenocarcinoma, Follicular"
+2818,Salivary Gland Diseases
+2819,Pyoderma
+2820,"Epilepsy, Post-Traumatic"
+2821,Corneal Diseases
+2822,Drug Toxicity
+2823,Intervertebral Disk Degeneration
+2824,Knee Injuries
+2825,Gaucher Disease
+2826,"Hyper-IgM Immunodeficiency Syndrome, Type 1"
+2827,Central Nervous System Infections
+2828,Focal Nodular Hyperplasia
+2829,Ureteral Diseases
+2830,Dumping Syndrome
+2831,Moyamoya Disease
+2832,"Osteosarcoma, Juxtacortical"
+2833,Hirschsprung Disease
+2834,Ulnar Neuropathies
+2835,"Metabolism, Inborn Errors"
+2836,Diurnal Enuresis
+2837,"Leukemia, Hairy Cell"
+2838,Hypercementosis
+2839,Phimosis
+2840,Schistosomiasis haematobia
+2841,Ileus
+2842,"Tuberculosis, Multidrug-Resistant"
+2843,"Neoplasms, Cystic, Mucinous, and Serous"
+2844,"Supranuclear Palsy, Progressive"
+2845,"Ichthyosis, Lamellar"
+2846,Dyskinesias
+2847,Dyslexia
+2848,Myotonia
+2849,Nasopharyngeal Neoplasms
+2850,Insect Bites and Stings
+2851,Pulmonary Eosinophilia
+2852,"Hypoxia, Brain"
+2853,"Leukemia, Myelomonocytic, Juvenile"
+2854,Heat Stroke
+2855,Oophoritis
+2856,"Liver Diseases, Alcoholic"
+2857,Hantavirus Infections
+2858,"Glioma, Subependymal"
+2859,"Pleurodynia, Epidemic"
+2860,Neck Pain
+2861,Retroperitoneal Neoplasms
+2862,Cystadenoma
+2863,Ellis-Van Creveld Syndrome
+2864,Adrenal Gland Diseases
+2865,Foot Deformities
+2866,"Carcinoma, Ductal, Breast"
+2867,Sunstroke
+2868,Drowning
+2869,"Hepatitis B, Chronic"
+2870,Delayed Emergence from Anesthesia
+2871,"Hernia, Femoral"
+2872,Tarlov Cysts
+2873,Ventricular Outflow Obstruction
+2874,Panuveitis
+2875,Paralysis
+2876,Struma Ovarii
+2877,Cerebrospinal Fluid Otorrhea
+2878,Guillain-Barre Syndrome
+2879,Hereditary Sensory and Motor Neuropathy
+2880,"Carcinoma, Lewis Lung"
+2881,Bites and Stings
+2882,Adenofibroma
+2883,"Stomatitis, Denture"
+2884,Subarachnoid Hemorrhage
+2885,Waterhouse-Friderichsen Syndrome
+2886,"Synovitis, Pigmented Villonodular"
+2887,"Lupus Erythematosus, Discoid"
+2888,Decompression Sickness
+2889,Leukemia L5178
+2890,Radiculopathy
+2891,"Syphilis, Congenital"
+2892,"Hyperbilirubinemia, Neonatal"
+2893,Pityriasis Rubra Pilaris
+2894,Equine Infectious Anemia
+2895,"Conjunctivitis, Allergic"
+2896,Capgras Syndrome
+2897,Vitamin E Deficiency
+2898,Uterine Diseases
+2899,"Head Injuries, Penetrating"
+2900,"Hemorrhagic Fever, Ebola"
+2901,Thromboembolism
+2902,"Cystadenoma, Mucinous"
+2903,Protein Deficiency
+2904,"Neoplasms, Experimental"
+2905,"Tuberculosis, Pleural"
+2906,Goiter
+2907,"Hernia, Diaphragmatic, Traumatic"
+2908,Paraneoplastic Polyneuropathy
+2909,Hypertelorism
+2910,"Hematoma, Subdural, Acute"
+2911,"Polyendocrinopathies, Autoimmune"
+2912,Dental Plaque
+2913,Odontodysplasia
+2914,Leiomyosarcoma
+2915,Thoracic Diseases
+2916,Eunuchism
+2917,Hamartoma
+2918,Egg Hypersensitivity
+2919,Microsporidiosis
+2920,Motor Neuron Disease
+2921,"Epilepsy, Rolandic"
+2922,Keratoconus
+2923,Torovirus Infections
+2924,Equinus Deformity
+2925,"Nevus, Pigmented"
+2926,Vibrio Infections
+2927,Mitochondrial Myopathies
+2928,"Blood Coagulation Disorders, Inherited"
+2929,Aleutian Mink Disease
+2930,Hemangioma
+2931,"Rhabdomyosarcoma, Embryonal"
+2932,Barrett Esophagus
+2933,Facies
+2934,Mesial Movement of Teeth
+2935,"Pancreatitis, Acute Necrotizing"
+2936,Multiple Chemical Sensitivity
+2937,Agoraphobia
+2938,Osteopetrosis
+2939,Urogenital Neoplasms
+2940,Adenomyoma
+2941,Piriformis Muscle Syndrome
+2942,Parotid Neoplasms
+2943,Rabies
+2944,Antithrombin III Deficiency
+2945,"Porphyria, Erythropoietic"
+2946,Tracheal Stenosis
+2947,Gyrate Atrophy
+2948,Varicose Ulcer
+2949,"Positive-Pressure Respiration, Intrinsic"
+2950,Zellweger Syndrome
+2951,Histrionic Personality Disorder
+2952,"Nephritis, Interstitial"
+2953,"Nystagmus, Congenital"
+2954,"Encephalomyelitis, Acute Disseminated"
+2955,Hyperhidrosis
+2956,Brain Stem Infarctions
+2957,Leydig Cell Tumor
+2958,"Carcinoma, Ductal"
+2959,Orbital Diseases
+2960,Yellow Nail Syndrome
+2961,Arterio-Arterial Fistula
+2962,"Fractures, Open"
+2963,Failure to Thrive
+2964,Echovirus Infections
+2965,Bloom Syndrome
+2966,"Heart Failure, Systolic"
+2967,"Myopia, Degenerative"
+2968,Hyperpigmentation
+2969,Exanthema
+2970,"Reflex, Abnormal"
+2971,"Otitis Media, Suppurative"
+2972,Trophoblastic Neoplasms
+2973,Carcinoid Tumor
+2974,Enterobacteriaceae Infections
+2975,Herpes Simplex
+2976,Salivary Gland Neoplasms
+2977,Coprophagia
+2978,Sex Cord-Gonadal Stromal Tumors
+2979,Uterine Hemorrhage
+2980,"Fibrous Dysplasia, Polyostotic"
+2981,Hepatitis D
+2982,Rigor Mortis
+2983,Vitamin K Deficiency
+2984,Dipetalonema Infections
+2985,"Encephalitis, St. Louis"
+2986,Hip Fractures
+2987,Lesch-Nyhan Syndrome
+2988,Otitis Media
+2989,Color Vision Defects
+2990,Factor V Deficiency
+2991,Pyometra
+2992,Starvation
+2993,"Leukodystrophy, Globoid Cell"
+2994,Argyria
+2995,"Ophthalmoplegia, Chronic Progressive External"
+2996,Colorectal Neoplasms
+2997,Trisomy
+2998,Retinoschisis
+2999,"Dermatitis, Perioral"
+3000,Osteolysis
+3001,Snake Bites
+3002,Pharyngeal Diseases
+3003,Dientamoebiasis
+3004,Lymphogranuloma Venereum
+3005,Pouchitis
+3006,Esophageal Neoplasms
+3007,Coronary Aneurysm
+3008,"Cardiomyopathy, Dilated"
+3009,"Hypobetalipoproteinemia, Familial, Apolipoprotein B"
+3010,Long QT Syndrome
+3011,Brain Death
+3012,Rupture
+3013,Hematemesis
+3014,Neurofibromatosis 2
+3015,Pyuria
+3016,Obstetric Labor Complications
+3017,Heart Arrest
+3018,Proctitis
+3019,"Cerebral Amyloid Angiopathy, Familial"
+3020,"Optic Neuropathy, Ischemic"
+3021,"Pyloric Stenosis, Hypertrophic"
+3022,Helminthiasis
+3023,"Diabetes Mellitus, Type 2"
+3024,Erythema Multiforme
+3025,Stroke
+3026,Milk Sickness
+3027,Menorrhagia
+3028,Proctocolitis
+3029,Prostatic Hyperplasia
+3030,Aortic Diseases
+3031,Inert Gas Narcosis
+3032,"Neoplasms, Muscle Tissue"
+3033,Thyroid Nodule
+3034,Toothache
+3035,Anorexia Nervosa
+3036,"Adenocarcinoma, Papillary"
+3037,"Cholangitis, Sclerosing"
+3038,Dihydropyrimidine Dehydrogenase Deficiency
+3039,Neuronal Migration Disorders
+3040,"Multiple Sclerosis, Chronic Progressive"
+3041,"Cardiomyopathy, Hypertrophic, Familial"
+3042,"Candidiasis, Oral"
+3043,"Hemangioma, Capillary"
+3044,Paraneoplastic Cerebellar Degeneration
+3045,Murine Acquired Immunodeficiency Syndrome
+3046,Hemorrhagic Disorders
+3047,Factor X Deficiency
+3048,Multiple Myeloma
+3049,Personality Disorders
+3050,Luteoma
+3051,Tumor Virus Infections
+3052,Vitamin B 6 Deficiency
+3053,"Nephrosis, Lipoid"
+3054,"Colitis, Microscopic"
+3055,"Abortion, Habitual"
+3056,Biliary Fistula
+3057,"Dentin, Secondary"
+3058,Pseudopseudohypoparathyroidism
+3059,Hyperlipoproteinemia Type II
+3060,Fuchs' Endothelial Dystrophy
+3061,Myoglobinuria
+3062,Histoplasmosis
+3063,"Pain Insensitivity, Congenital"
+3064,Geographic Atrophy
+3065,Angiomyoma
+3066,Hyperlipoproteinemia Type V
+3067,Lumpy Skin Disease
+3068,Birth Injuries
+3069,Irritable Bowel Syndrome
+3070,Diphtheria
+3071,Somatosensory Disorders
+3072,"Tuberculosis, Lymph Node"
+3073,Bacteremia
+3074,Magnesium Deficiency
+3075,Coloboma
+3076,"Leishmaniasis, Cutaneous"
+3077,Mesenchymoma
+3078,Urachal Cyst
+3079,"Sleep Disorders, Circadian Rhythm"
+3080,Ectodermal Dysplasia
+3081,Mucinoses
+3082,"Diabetes Mellitus, Type 1"
+3083,Raynaud Disease
+3084,Multiple Acyl Coenzyme A Dehydrogenase Deficiency
+3085,Pulmonary Fibrosis
+3086,Charcot-Marie-Tooth Disease
+3087,Critical Illness
+3088,Bacillaceae Infections
+3089,Ethmoid Sinusitis
+3090,Funnel Chest
+3091,Arthus Reaction
+3092,Bipolar Disorder
+3093,"Histiocytosis, Sinus"
+3094,"Carcinoma, Neuroendocrine"
+3095,Nevus
+3096,Stupor
+3097,Presbycusis
+3098,"Exostoses, Multiple Hereditary"
+3099,"Neoplasms, Nerve Tissue"
+3100,"Trypanosomiasis, African"
+3101,"Neoplasm Recurrence, Local"
+3102,Neuroaspergillosis
+3103,"Myoclonic Epilepsy, Juvenile"
+3104,Anterior Compartment Syndrome
+3105,Wilms Tumor
+3106,"Keratoconjunctivitis, Infectious"
+3107,Post-Dural Puncture Headache
+3108,Phenylketonurias
+3109,Encopresis
+3110,Haemonchiasis
+3111,Visna
+3112,Azoospermia
+3113,"Hypophosphatemic Rickets, X-Linked Dominant"
+3114,"Paralyses, Familial Periodic"
+3115,Cleft Lip
+3116,Postmortem Changes
+3117,"Pneumonia, Aspiration"
+3118,"Hepatitis C, Chronic"
+3119,Cholesterol Ester Storage Disease
+3120,Hallucinations
+3121,"Hearing Loss, Central"
+3122,Placenta Accreta
+3123,Diabetic Neuropathies
+3124,Keratosis
+3125,"Diabetes Insipidus, Neurogenic"
+3126,Apudoma
+3127,"Helminthiasis, Animal"
+3128,IgG Deficiency
+3129,Cleft Palate
+3130,Liver Neoplasms
+3131,Muscular Atrophy
+3132,AIDS-Related Complex
+3133,"Hypersensitivity, Delayed"
+3134,Digestive System Neoplasms
+3135,Emphysematous Cholecystitis
+3136,Beriberi
+3137,"Esthesioneuroblastoma, Olfactory"
+3138,Neurasthenia
+3139,"Solitary Fibrous Tumor, Pleural"
+3140,Conversion Disorder
+3141,Nephrocalcinosis
+3142,"Rhinitis, Allergic, Seasonal"
+3143,Adnexal Diseases
+3144,"Carcinoma, Small Cell"
+3145,"Child Development Disorders, Pervasive"
+3146,Acne Vulgaris
+3147,Myocardial Bridging
+3148,Retinoblastoma
+3149,Scarlet Fever
+3150,beta-Thalassemia
+3151,Neoplasm Invasiveness
+3152,Pulmonary Alveolar Proteinosis
+3153,Gingival Neoplasms
+3154,Lymphangiosarcoma
+3155,Dementia
+3156,Dystonic Disorders
+3157,Adjustment Disorders
+3158,"Fractures, Spontaneous"
+3159,"Lysosomal Storage Diseases, Nervous System"
+3160,Landau-Kleffner Syndrome
+3161,Firesetting Behavior
+3162,Sea-Blue Histiocyte Syndrome
+3163,Endomyocardial Fibrosis
+3164,Dystonia
+3165,Muscular Dystrophies
+3166,Retrocochlear Diseases
+3167,"Conjunctivitis, Bacterial"
+3168,Furcation Defects
+3169,Parakeratosis
+3170,Adrenoleukodystrophy
+3171,Massive Hepatic Necrosis
+3172,"Hand Deformities, Acquired"
+3173,Alcohol-Induced Disorders
+3174,Ulnar Nerve Compression Syndromes
+3175,"Conjunctivitis, Viral"
+3176,"Joint Deformities, Acquired"
+3177,Penile Neoplasms
+3178,Xerophthalmia
+3179,"Protoporphyria, Erythropoietic"
+3180,Neurocutaneous Syndromes
+3181,Papillon-Lefevre Disease
+3182,Croup
+3183,Vitamin K Deficiency Bleeding
+3184,Paraproteinemias
+3185,Gastric Dilatation
+3186,Porphyrias
+3187,Varicose Veins
+3188,Trismus
+3189,"Hearing Loss, Mixed Conductive-Sensorineural"
+3190,"Hematoma, Epidural, Spinal"
+3191,Typhlitis
+3192,Urethral Diseases
+3193,Arachnidism
+3194,Bronchitis
+3195,Lichen Planus
+3196,Choriocarcinoma
+3197,Citrullinemia
+3198,Necrosis
+3199,Circoviridae Infections
+3200,Hyponatremia
+3201,Diabetic Nephropathies
+3202,Uveitis
+3203,Encephalocele
+3204,Peptic Ulcer Hemorrhage
+3205,Anus Neoplasms
+3206,"Liver Cirrhosis, Experimental"
+3207,Dislocations
+3208,Leigh Disease
+3209,Sickle Cell Trait
+3210,"Cystic Adenomatoid Malformation of Lung, Congenital"
+3211,Flavobacteriaceae Infections
+3212,Exophthalmos
+3213,Impetigo
+3214,Ascorbic Acid Deficiency
+3215,Iliotibial Band Syndrome
+3216,Latex Hypersensitivity
+3217,Liver Cirrhosis
+3218,Niemann-Pick Diseases
+3219,"Urinary Incontinence, Urge"
+3220,"Hepatitis D, Chronic"
+3221,"Panniculitis, Nodular Nonsuppurative"
+3222,Pyonephrosis
+3223,"Pain, Postoperative"
+3224,Chagas Disease
+3225,Pituitary ACTH Hypersecretion
+3226,Arteriovenous Malformations
+3227,"Embolism, Amniotic Fluid"
+3228,Delayed Graft Function
+3229,Failed Back Surgery Syndrome
+3230,Sturge-Weber Syndrome
+3231,Ovarian Neoplasms
+3232,"Venereal Tumors, Veterinary"
+3233,Endarteritis
+3234,"Lipodystrophy, Congenital Generalized"
+3235,Language Development Disorders
+3236,Pilonidal Sinus
+3237,Tooth Erosion
+3238,"Lymphoma, AIDS-Related"
+3239,Optic Nerve Neoplasms
+3240,"Liver Neoplasms, Experimental"
+3241,Sezary Syndrome
+3242,Pseudomonas Infections
+3243,Bone Neoplasms
+3244,Ear Neoplasms
+3245,Fibrosarcoma
+3246,Fabry Disease
+3247,"Shock, Traumatic"
+3248,Sialorrhea
+3249,Autoimmune Diseases
+3250,Mediastinal Diseases
+3251,Osteochondrosis
+3252,Vestibular Neuronitis
+3253,"Vasospasm, Intracranial"
+3254,Osteoporosis
+3255,Anuria
+3256,Bronchial Fistula
+3257,Aphasia
+3258,Vaginal Discharge
+3259,Arnold-Chiari Malformation
+3260,Erythema Chronicum Migrans
+3261,Pedophilia
+3262,Silver-Russell Syndrome
+3263,Dysgerminoma
+3264,Krukenberg Tumor
+3265,Genetic Predisposition to Disease
+3266,Hydrothorax
+3267,Down Syndrome
+3268,Glioma
+3269,Rectal Diseases
+3270,Parathyroid Neoplasms
+3271,Heavy Chain Disease
+3272,"Burns, Inhalation"
+3273,Liver Abscess
+3274,Chlamydophila Infections
+3275,Diabetes Complications
+3276,Isosporiasis
+3277,Medullary Sponge Kidney
+3278,Myotonic Disorders
+3279,Pneumopericardium
+3280,Prosthesis-Related Infections
+3281,African Swine Fever
+3282,"46, XY Disorders of Sex Development"
+3283,Mikulicz' Disease
+3284,Yang Deficiency
+3285,Drug-Induced Liver Injury
+3286,Granulosa Cell Tumor
+3287,Mediastinal Cyst
+3288,Silicotuberculosis
+3289,"Leukemia, Lymphoid"
+3290,Yersinia pseudotuberculosis Infections
+3291,Fetal Hypoxia
+3292,Phlebitis
+3293,Hair Diseases
+3294,"Psychoses, Substance-Induced"
+3295,Mouth Abnormalities
+3296,Transposition of Great Vessels
+3297,Thrombophlebitis
+3298,Hypopharyngeal Neoplasms
+3299,Cholecystitis
+3300,Endocrine Gland Neoplasms
+3301,Giardiasis
+3302,Tricuspid Valve Prolapse
+3303,Dry Socket
+3304,MERRF Syndrome
+3305,Heart Failure
+3306,"Vasculitis, Leukocytoclastic, Cutaneous"
+3307,Scotoma
+3308,Mucositis
+3309,Sebaceous Gland Neoplasms
+3310,Alopecia
+3311,Choanal Atresia
+3312,Osteoma
+3313,Esophageal Perforation
+3314,Amyloid Neuropathies
+3315,Cleidocranial Dysplasia
+3316,"Ectodermal Dysplasia 3, Anhidrotic"
+3317,"Pneumonia, Staphylococcal"
+3318,Spermatic Cord Torsion
+3319,"Fructose Metabolism, Inborn Errors"
+3320,Schistosomiasis mansoni
+3321,Nephrolithiasis
+3322,Plasmacytoma
+3323,Tissue Adhesions
+3324,Hypernatremia
+3325,Kidney Diseases
+3326,Multiple Endocrine Neoplasia Type 2b
+3327,Conduct Disorder
+3328,Diffuse Neurofibrillary Tangles with Calcification
+3329,"Nevus, Blue"
+3330,"Puberty, Delayed"
+3331,Shoulder Pain
+3332,Tooth Injuries
+3333,Endophthalmitis
+3334,Oral Submucous Fibrosis
+3335,Tricuspid Atresia
+3336,Toxocariasis
+3337,Enterovirus Infections
+3338,"Tuberculosis, Gastrointestinal"
+3339,Lymphangioleiomyomatosis
+3340,Vesico-Ureteral Reflux
+3341,Glycogen Storage Disease Type IIb
+3342,Friedreich Ataxia
+3343,Forearm Injuries
+3344,"Anemia, Sideroblastic"
+3345,"Trauma, Nervous System"
+3346,"Nephritis, Hereditary"
+3347,West Nile Fever
+3348,Hemochromatosis
+3349,Atrial Flutter
+3350,"Keratitis, Dendritic"
+3351,Postgastrectomy Syndromes
+3352,Dental Pulp Necrosis
+3353,Immunoproliferative Small Intestinal Disease
+3354,"Headache Disorders, Secondary"
+3355,"Carcinoma 256, Walker"
+3356,Crigler-Najjar Syndrome
+3357,Intracranial Embolism
+3358,Ear Diseases
+3359,"Gastroenteritis, Transmissible, of Swine"
+3360,Staphylococcal Scalded Skin Syndrome
+3361,"Muscular Dystrophy, Oculopharyngeal"
+3362,Hodgkin Disease
+3363,"Plasma Cell Granuloma, Pulmonary"
+3364,Retinal Artery Occlusion
+3365,Erythema Infectiosum
+3366,"Leukemia, Plasma Cell"
+3367,Needlestick Injuries
+3368,Orbital Cellulitis
+3369,Stereotypic Movement Disorder
+3370,"Leishmaniasis, Visceral"
+3371,Klippel-Trenaunay-Weber Syndrome
+3372,"Abortion, Threatened"
+3373,Somnambulism
+3374,Lymphangitis
+3375,Myositis Ossificans
+3376,Pyloric Stenosis
+3377,Paraparesis
+3378,Corneal Neovascularization
+3379,"Infant, Newborn, Diseases"
+3380,Peptic Ulcer Perforation
+3381,Ureteral Calculi
+3382,"Schizophrenia, Catatonic"
+3383,"Fibromatosis, Abdominal"
+3384,AIDS-Related Opportunistic Infections
+3385,Bacteroides Infections
+3386,Anaphylaxis
+3387,Coma
+3388,Methemoglobinemia
+3389,Pharyngeal Neoplasms
+3390,"Anxiety, Separation"
+3391,Lymphatic Diseases
+3392,Paranoid Personality Disorder
+3393,Osteoblastoma
+3394,Cranial Nerve Injuries
+3395,Hearing Disorders
+3396,Dysarthria
+3397,Astigmatism
+3398,Substance Withdrawal Syndrome
+3399,"Epilepsy, Reflex"
+3400,Hashimoto Disease
+3401,"Multiple Sclerosis, Relapsing-Remitting"
+3402,"Hearing Loss, Bilateral"
+3403,Channelopathies
+3404,Keratoconjunctivitis Sicca
+3405,"Fractures, Comminuted"
+3406,Mycotoxicosis
+3407,Chondrosarcoma
+3408,"Hemoglobinuria, Paroxysmal"
+3409,Legionnaires' Disease
+3410,Addison Disease
+3411,Bone Marrow Diseases
+3412,Teratocarcinoma
+3413,Meningioma
+3414,Chondrocalcinosis
+3415,"Nevus, Epithelioid and Spindle Cell"
+3416,Albuminuria
+3417,Leiomyoma
+3418,Oxyuriasis
+3419,Bacteriuria
+3420,Death
+3421,"Leprosy, Lepromatous"
+3422,"Sialometaplasia, Necrotizing"
+3423,Mydriasis
+3424,Bundle-Branch Block
+3425,Carcinoid Heart Disease
+3426,Actinomycosis
+3427,"Meningitis, Aseptic"
+3428,"Skin Diseases, Metabolic"
+3429,Tetanus
+3430,Eye Neoplasms
+3431,Spinal Muscular Atrophies of Childhood
+3432,"Neoplastic Syndromes, Hereditary"
+3433,"Candidiasis, Chronic Mucocutaneous"
+3434,Chilblains
+3435,Uterine Prolapse
+3436,"Niemann-Pick Disease, Type C"
+3437,Osteitis Deformans
+3438,Torticollis
+3439,"Tuberculosis, Miliary"
+3440,"Encephalitis, Viral"
+3441,Hematoma
+3442,Mushroom Poisoning
+3443,Smooth Muscle Tumor
+3444,"Meningitis, Fungal"
+3445,"Meningitis, Listeria"
+3446,Persistent Hyperplastic Primary Vitreous
+3447,Fetofetal Transfusion
+3448,Intraoperative Complications
+3449,Gastrointestinal Stromal Tumors
+3450,Psittacosis
+3451,Restless Legs Syndrome
+3452,Acro-Osteolysis
+3453,Nocardia Infections
+3454,"Lower Extremity Deformities, Congenital"
+3455,"Colitis, Ischemic"
+3456,Retinopathy of Prematurity
+3457,Periapical Abscess
+3458,"Arthritis, Gouty"
+3459,Skull Neoplasms
+3460,Pericardial Effusion
+3461,Hypoalphalipoproteinemias
+3462,Fused Teeth
+3463,"Elliptocytosis, Hereditary"
+3464,Meigs Syndrome
+3465,Retrognathism
+3466,Colonic Neoplasms
+3467,Colorado Tick Fever
+3468,"Brain Diseases, Metabolic"
+3469,Prolactinoma
+3470,Hemophilia A
+3471,"Tachycardia, Ectopic Junctional"
+3472,"Aortic Aneurysm, Thoracic"
+3473,"Tuberculosis, Oral"
+3474,Exostoses
+3475,"Scleroderma, Systemic"
+3476,Anaplasia
+3477,Trichostrongylosis
+3478,Ornithine Carbamoyltransferase Deficiency Disease
+3479,"Ventricular Dysfunction, Left"
+3480,Caliciviridae Infections
+3481,Pneumothorax
+3482,"Scleroderma, Localized"
+3483,Coronary Vessel Anomalies
+3484,"Anemia, Refractory"
+3485,Eye Pain
+3486,Legg-Perthes Disease
+3487,"Carcinoma, Non-Small-Cell Lung"
+3488,"Granulomatosis, Orofacial"
+3489,Kidney Calculi
+3490,"Liver Cirrhosis, Biliary"
+3491,Lipoma
+3492,Muscle Rigidity
+3493,Fox-Fordyce Disease
+3494,Rubinstein-Taybi Syndrome
+3495,Vitiligo
+3496,"Skin Diseases, Viral"
+3497,Airway Obstruction
+3498,Bluetongue
+3499,"Tuberculosis, Cutaneous"
+3500,Duodenal Diseases
+3501,Fetal Resorption
+3502,"Cystadenoma, Serous"
+3503,Hepatomegaly
+3504,"Colitis, Ulcerative"
+3505,"Heart Septal Defects, Ventricular"
+3506,Hyperalgesia
+3507,Endometrial Stromal Tumors
+3508,Lichenoid Eruptions
+3509,Nerve Compression Syndromes
+3510,Furunculosis
+3511,"Meningitis, Cryptococcal"
+3512,Neuroma
+3513,Panniculitis
+3514,Intervertebral Disk Displacement
+3515,"Conjunctivitis, Acute Hemorrhagic"
+3516,Sjogren's Syndrome
+3517,"Skin Diseases, Parasitic"
+3518,Foreign-Body Migration
+3519,Intestinal Atresia
+3520,Paraganglioma
+3521,Salmonella Food Poisoning
+3522,Putaminal Hemorrhage
+3523,"Ichthyosis, X-Linked"
+3524,Urinary Incontinence
+3525,"Diverticulosis, Esophageal"
+3526,Zygomycosis
+3527,Oligohydramnios
+3528,"Melanoma, Amelanotic"
+3529,Corneal Opacity
+3530,Xanthomatosis
+3531,Mitral Valve Insufficiency
+3532,Staphylococcal Food Poisoning
+3533,"Carcinoma, Bronchogenic"
+3534,"Epidermal Necrolysis, Toxic"
+3535,Medulloblastoma
+3536,"Goiter, Substernal"
+3537,"Tuberculosis, Ocular"
+3538,Cartilage Diseases
+3539,"Fibroma, Ossifying"
+3540,Combat Disorders
+3541,Kleine-Levin Syndrome
+3542,Anus Diseases
+3543,Astroviridae Infections
+3544,HTLV-II Infections
+3545,Actinobacillus Infections
+3546,Livedo Reticularis
+3547,Opportunistic Infections
+3548,Ventricular Septal Rupture
+3549,Urolithiasis
+3550,Liddle Syndrome
+3551,Hyperplasia
+3552,Gastroesophageal Reflux
+3553,"Dermatitis, Irritant"
+3554,"Hearing Loss, High-Frequency"
+3555,Hematologic Neoplasms
+3556,Labor Pain
+3557,Spinal Cord Injuries
+3558,Uterine Cervical Diseases
+3559,Voice Disorders
+3560,Acatalasia
+3561,"Adenoma, Villous"
+3562,Ecthyma
+3563,Maple Syrup Urine Disease
+3564,Pycnodysostosis
+3565,Renal Osteodystrophy
+3566,Zoonoses
+3567,Hidradenitis Suppurativa
+3568,Salivary Gland Fistula
+3569,Choroid Neoplasms
+3570,Pelvic Infection
+3571,Ventricular Flutter
+3572,Heart Rupture
+3573,Hyperlipoproteinemia Type IV
+3574,"Strongyle Infections, Equine"
+3575,Root Caries
+3576,"Carcinoma, Acinar Cell"
+3577,Gastric Outlet Obstruction
+3578,Hereditary Central Nervous System Demyelinating Diseases
+3579,Hypersplenism
+3580,Periarthritis
+3581,Bacterial Infections
+3582,Uterine Cervical Incompetence
+3583,Scleral Diseases
+3584,Skull Fractures
+3585,Cracked Tooth Syndrome
+3586,"Colitis, Lymphocytic"
+3587,Retinal Drusen
+3588,"Salmonella Infections, Animal"
+3589,Polycystic Kidney Diseases
+3590,"Rhinitis, Vasomotor"
+3591,"Aneurysm, False"
+3592,Cerebral Arterial Diseases
+3593,Hematocele
+3594,Urinary Tract Infections
+3595,Psychomotor Agitation
+3596,Mast-Cell Sarcoma
+3597,Urethritis
+3598,Orchitis
+3599,"Lymphoma, Large B-Cell, Diffuse"
+3600,"Fibroma, Desmoplastic"
+3601,"Abortion, Spontaneous"
+3602,Oligodendroglioma
+3603,Congenital Hypothyroidism
+3604,Melkersson-Rosenthal Syndrome
+3605,Progeria
+3606,Erdheim-Chester Disease
+3607,Glossitis
+3608,Xeroderma Pigmentosum
+3609,Gonadal Disorders
+3610,Factor XII Deficiency
+3611,Autonomic Dysreflexia
+3612,Fallopian Tube Diseases
+3613,Intestinal Volvulus
+3614,"Pain, Referred"
+3615,Rhinosporidiosis
+3616,Demyelinating Diseases
+3617,Diabetes Insipidus
+3618,"Leukemia, Myeloid, Chronic-Phase"
+3619,Dermatitis Herpetiformis
+3620,Kluver-Bucy Syndrome
+3621,Macrostomia
+3622,Necrobiotic Disorders
+3623,"Purpura, Schoenlein-Henoch"
+3624,Myofascial Pain Syndromes
+3625,Skin Abnormalities
+3626,Dizziness
+3627,Gram-Positive Bacterial Infections
+3628,"Nails, Malformed"
+3629,Scalp Dermatoses
+3630,CADASIL
+3631,Strongylida Infections
+3632,Duodenal Ulcer
+3633,Entropion
+3634,Lithiasis
+3635,Pars Planitis
+3636,"Arthritis, Infectious"
+3637,"Micronuclei, Chromosome-Defective"
+3638,Peri-Implantitis
+3639,Trigeminal Nerve Diseases
+3640,"Carcinoma, Adenosquamous"
+3641,"Adenocarcinoma, Mucinous"
+3642,Discitis
+3643,"Hand, Foot and Mouth Disease"
+3644,"Poliomyelitis, Bulbar"
+3645,Sclerema Neonatorum
+3646,Carotid-Cavernous Sinus Fistula
+3647,Tendon Entrapment
+3648,Laryngeal Edema
+3649,Optic Atrophy
+3650,"Hemorrhagic Fevers, Viral"
+3651,"Bulbo-Spinal Atrophy, X-Linked"
+3652,Eczema
+3653,"Granulomatous Disease, Chronic"
+3654,Gastrointestinal Neoplasms
+3655,Hyperostosis
+3656,Esotropia
+3657,Intestinal Polyposis
+3658,"Tachycardia, Supraventricular"
+3659,Activated Protein C Resistance
+3660,Community-Acquired Infections
+3661,"Ear Deformities, Acquired"
+3662,Ascaridiasis
+3663,Alzheimer Disease
+3664,Ascites
+3665,Goldenhar Syndrome
+3666,Ophthalmia Neonatorum
+3667,Nutrition Disorders
+3668,Cafe-au-Lait Spots
+3669,Osteochondroma
+3670,Ovarian Hyperstimulation Syndrome
+3671,Spirurida Infections
+3672,Trigger Finger Disorder
+3673,"Abortion, Incomplete"
+3674,Hypoproteinemia
+3675,Lymphedema
+3676,Adenolymphoma
+3677,Xerostomia
+3678,Buruli Ulcer
+3679,"Epilepsy, Frontal Lobe"
+3680,"Granuloma, Laryngeal"
+3681,"Encephalomyelitis, Enzootic Porcine"
+3682,Invasive Pulmonary Aspergillosis
+3683,Hypocalcemia
+3684,Vaccinia
+3685,Gangliosidoses
+3686,Hemorrhagic Septicemia
+3687,Leg Dermatoses
+3688,Surgical Wound Dehiscence
+3689,Cushing Syndrome
+3690,Sleep Apnea Syndromes
+3691,Mitochondrial Diseases
+3692,"Neovascularization, Pathologic"
+3693,Langer-Giedion Syndrome
+3694,"Coma, Post-Head Injury"
+3695,Cysts
+3696,Pulpitis
+3697,Chorioamnionitis
+3698,Cholera
+3699,Vagus Nerve Diseases
+3700,"Histiocytoma, Malignant Fibrous"
+3701,Radiation Pneumonitis
+3702,Hand Dermatoses
+3703,"Hypersensitivity, Immediate"
+3704,"Keratosis, Actinic"
+3705,Hepatitis
+3706,Mental Retardation
+3707,Cerebellar Ataxia
+3708,Lightning Injuries
+3709,"Carcinoma, Renal Cell"
+3710,Ectropion
+3711,"Urinary Incontinence, Stress"
+3712,Chondromalacia Patellae
+3713,Esophageal Motility Disorders
+3714,Anti-Glomerular Basement Membrane Disease
+3715,"Colonic Diseases, Functional"
+3716,Respiratory Hypersensitivity
+3717,Gallbladder Diseases
+3718,"Neuroectodermal Tumors, Primitive"
+3719,Angiokeratoma
+3720,Thoracic Neoplasms
+3721,Carbon Monoxide Poisoning
+3722,Motor Skills Disorders
+3723,Tetany
+3724,Parovarian Cyst
+3725,"Keratoderma, Palmoplantar, Diffuse"
+3726,Peanut Hypersensitivity
+3727,"Carcinoma, Verrucous"
+3728,"Gonadal Dysgenesis, 46,XY"
+3729,Leukoplakia
+3730,Leukorrhea
+3731,Arthralgia
+3732,Pemphigus
+3733,Cri-du-Chat Syndrome
+3734,Pseudolymphoma
+3735,Leber Congenital Amaurosis
+3736,Chalazion
+3737,"Neoplastic Cells, Circulating"
+3738,Perivascular Epithelioid Cell Neoplasms
+3739,Muscle Weakness
+3740,Mucopolysaccharidoses
+3741,Fascioliasis
+3742,Branchioma
+3743,Lacrimal Apparatus Diseases
+3744,"Optic Atrophy, Autosomal Dominant"
+3745,Seroma
+3746,Hypertensive Encephalopathy
+3747,Retrograde Degeneration
+3748,Congenital Abnormalities
+3749,Unverricht-Lundborg Syndrome
+3750,Coronary Disease
+3751,Blood Group Incompatibility
+3752,Lingual Thyroid
+3753,Mastitis
+3754,Tricuspid Valve Insufficiency
+3755,CREST Syndrome
+3756,Femoral Neuropathy
+3757,Wheat Hypersensitivity
+3758,Olfaction Disorders
+3759,"Candidiasis, Cutaneous"
+3760,Basal Ganglia Hemorrhage
+3761,Spinal Cord Compression
+3762,Farmer's Lung
+3763,Polycythemia
+3764,Common Variable Immunodeficiency
+3765,Dental Pulp Calcification
+3766,"Echinococcosis, Pulmonary"
+3767,Uterine Cervical Erosion
+3768,Epidermal Cyst
+3769,"Neuralgia, Postherpetic"
+3770,"Sarcoidosis, Pulmonary"
+3771,Collagen Diseases
+3772,Syringomyelia
+3773,"Sarcoma, Ewing's"
+3774,"Paralysis, Hyperkalemic Periodic"
+3775,Condylomata Acuminata
+3776,Eating Disorders
+3777,"Carcinoma, Large Cell"
+3778,Fibrosis
+3779,Burkitt Lymphoma
+3780,Lactose Intolerance
+3781,Leukemic Infiltration
+3782,Gigantism
+3783,Sphincter of Oddi Dysfunction
+3784,Basal Cell Nevus Syndrome
+3785,Hydrops Fetalis
+3786,"Depressive Disorder, Major"
+3787,Duodenal Obstruction
+3788,Peritoneal Neoplasms
+3789,Astrocytoma
+3790,"Neoplasm Regression, Spontaneous"
+3791,Ectoparasitic Infestations
+3792,"Angiomatosis, Bacillary"
+3793,Osteogenesis Imperfecta
+3794,Myocardial Ischemia
+3795,"Tooth, Unerupted"
+3796,Hand Injuries
+3797,Leukemoid Reaction
+3798,Peripheral Nervous System Diseases
+3799,Gastrointestinal Diseases
+3800,"Tuberculosis, Hepatic"
+3801,Infectious Mononucleosis
+3802,Bordetella Infections
+3803,Cysticercosis
+3804,Scoliosis
+3805,Anastomotic Leak
+3806,Short Rib-Polydactyly Syndrome
+3807,Erythema Nodosum
+3808,Blepharoptosis
+3809,Dextrocardia
+3810,"Eye Infections, Fungal"
+3811,Cough
+3812,"Keratosis, Seborrheic"
+3813,"Melanoma, Experimental"
+3814,Hepatorenal Syndrome
+3815,"Pneumonia, Pneumocystis"
+3816,Purpura Fulminans
+3817,"Anemia, Diamond-Blackfan"
+3818,"Hematoma, Epidural, Cranial"
+3819,Picornaviridae Infections
+3820,Ephemeral Fever
+3821,Endolymphatic Hydrops
+3822,Giant Lymph Node Hyperplasia
+3823,Otitis Externa
+3824,Spinal Curvatures
+3825,"Amino Acid Metabolism, Inborn Errors"
+3826,Herpangina
+3827,"Liver Diseases, Parasitic"
+3828,Periodontal Cyst
+3829,Pruritus Ani
+3830,"Carcinoma, Merkel Cell"
+3831,"Plaque, Atherosclerotic"
+3832,Masochism
+3833,Bile Reflux
+3834,Coronavirus Infections
+3835,"Carcinoma, Endometrioid"
+3836,"Mixed Tumor, Malignant"
+3837,"Meningitis, Bacterial"
+3838,Lambert-Eaton Myasthenic Syndrome
+3839,"Sexual Dysfunction, Physiological"
+3840,"Blood Loss, Surgical"
+3841,Milk Hypersensitivity
+3842,Agraphia
+3843,"Abortion, Septic"
+3844,Pyruvate Carboxylase Deficiency Disease
+3845,Mercury Poisoning
+3846,Aortic Arch Syndromes
+3847,Rhinoscleroma
+3848,Sexually Transmitted Diseases
+3849,Biotinidase Deficiency
+3850,"Rubella Syndrome, Congenital"
+3851,Central Nervous System Helminthiasis
+3852,"Stomatitis, Aphthous"
+3853,"Colitis, Collagenous"
+3854,"Intracranial Hemorrhage, Traumatic"
+3855,"Upper Extremity Deformities, Congenital"
+3856,Aortic Aneurysm
+3857,Gout
+3858,Marijuana Abuse
+3859,Facial Hemiatrophy
+3860,Lymphocytosis
+3861,Prostatic Neoplasms
+3862,Sick Sinus Syndrome
+3863,Adenoma
+3864,Spina Bifida Cystica
+3865,Uveoparotid Fever
+3866,Hemoglobin SC Disease
+3867,"Breast Neoplasms, Male"
+3868,Polydactyly
+3869,Waldenstrom Macroglobulinemia
+3870,Cerebral Amyloid Angiopathy
+3871,Erythrasma
+3872,"Glaucoma, Open-Angle"
+3873,"Dysentery, Amebic"
+3874,"Epilepsy, Temporal Lobe"
+3875,Heroin Dependence
+3876,Linitis Plastica
+3877,Neuroschistosomiasis
+3878,Spinocerebellar Degenerations
+3879,Li-Fraumeni Syndrome
+3880,Orbital Pseudotumor
+3881,Schizophrenia
+3882,Mediastinal Emphysema
+3883,Branchio-Oto-Renal Syndrome
+3884,Waardenburg's Syndrome
+3885,Mucopolysaccharidosis I
+3886,Ophthalmoplegia
+3887,DNA Virus Infections
+3888,Arachnodactyly
+3889,Flatfoot
+3890,Propionic Acidemia
+3891,Intestinal Obstruction
+3892,Cutis Laxa
+3893,"Bone Diseases, Metabolic"
+3894,Cogan Syndrome
+3895,"Cardiac Output, High"
+3896,Diaper Rash
+3897,"Aortic Stenosis, Subvalvular"
+3898,"Hernia, Diaphragmatic"
+3899,Mycetoma
+3900,"Stress Disorders, Traumatic"
+3901,"Tuberculosis, Male Genital"
+3902,Herpes Zoster Ophthalmicus
+3903,HIV-Associated Lipodystrophy Syndrome
+3904,Periprosthetic Fractures
+3905,Hypervitaminosis A
+3906,Superior Vena Cava Syndrome
+3907,"Fractures, Compression"
+3908,Hypergammaglobulinemia
+3909,Atrophy
+3910,Lens Subluxation
+3911,alpha-Mannosidosis
+3912,Paroxysmal Hemicrania
+3913,Osteophyte
+3914,"Larva Migrans, Visceral"
+3915,Rheumatoid Nodule
+3916,Blastocystis Infections
+3917,Prostatic Intraepithelial Neoplasia
+3918,Takayasu Arteritis
+3919,"Malaria, Falciparum"
+3920,Wolf-Hirschhorn Syndrome
+3921,"Neoplasms, Radiation-Induced"
+3922,Intestinal Neoplasms
+3923,"Lymphoma, T-Cell, Cutaneous"
+3924,Conjunctival Neoplasms
+3925,Smoke Inhalation Injury
+3926,Hemolytic-Uremic Syndrome
+3927,Diabetic Foot
+3928,Lecithin Acyltransferase Deficiency
+3929,Miosis
+3930,"Epidermolysis Bullosa, Junctional"
+3931,Enoplida Infections
+3932,"Erythroblastosis, Fetal"
+3933,Aphakia
+3934,Malaria
+3935,Ciliary Motility Disorders
+3936,Gram-Negative Bacterial Infections
+3937,"Encephalitis, Herpes Simplex"
+3938,Optic Nerve Injuries
+3939,Esophageal and Gastric Varices
+3940,Sleep Bruxism
+3941,Sleep Deprivation
+3942,Aggressive Periodontitis
+3943,Pelger-Huet Anomaly
+3944,Trachoma
+3945,"Bronchiolitis, Viral"
+3946,"Focal Infection, Dental"
+3947,"Retinal Necrosis Syndrome, Acute"
+3948,Seasonal Affective Disorder
+3949,"Hypertension, Renovascular"
+3950,"Neurofibroma, Plexiform"
+3951,Femoracetabular Impingement
+3952,Respiratory Tract Infections
+3953,Riboflavin Deficiency
+3954,Pre-Eclampsia
+3955,"Skin Diseases, Genetic"
+3956,Obesity Hypoventilation Syndrome
+3957,Aortic Valve Stenosis
+3958,Central Nervous System Cysts
+3959,"Scleroderma, Diffuse"
+3960,Theileriasis
+3961,Cicatrix
+3962,Togaviridae Infections
+3963,Spina Bifida Occulta
+3964,Narcolepsy
+3965,Dental Deposits
+3966,Hemoptysis
+3967,Parasystole
+3968,Periapical Granuloma
+3969,Quadriplegia
+3970,Alcoholic Neuropathy
+3971,Central Nervous System Neoplasms
+3972,Teratoma
+3973,Status Epilepticus
+3974,"Diabetes Mellitus, Lipoatrophic"
+3975,Vaginal Neoplasms
+3976,Meckel Diverticulum
+3977,Onchocerciasis
+3978,Alkalosis
+3979,"Lymphangiectasis, Intestinal"
+3980,Sigmoid Diseases
+3981,Agranulocytosis
+3982,Polycythemia Vera
+3983,Uterine Perforation
+3984,Meningococcal Infections
+3985,Musculoskeletal Abnormalities
+3986,Pyelonephritis
+3987,"Cardiac Output, Low"
+3988,Delirium
+3989,"Skin Diseases, Vascular"
+3990,"Adenoma, Acidophil"
+3991,Ganglioneuroblastoma
+3992,Sacroiliitis
+3993,Sinoatrial Block
+3994,Glycosuria
+3995,"Depression, Postpartum"
+3996,"Encephalitis, Tick-Borne"
+3997,"Myelinolysis, Central Pontine"
+3998,"Osteoma, Osteoid"
+3999,Dyspnea
+4000,Capsule Opacification
+4001,"Hepatitis, Autoimmune"
+4002,Hyperemesis Gravidarum
+4003,Memory Disorders
+4004,Hypokinesia
+4005,"Coproporphyria, Hereditary"
+4006,Hydrophthalmos
+4007,Hemospermia
+4008,"Brain Injury, Chronic"
+4009,Synovial Cyst
+4010,Respiration Disorders
+4011,Cerebrospinal Fluid Rhinorrhea
+4012,Retinitis Pigmentosa
+4013,Nocturnal Paroxysmal Dystonia
+4014,"Spastic Paraplegia, Hereditary"
+4015,"Skull Fracture, Depressed"
+4016,Acromegaly
+4017,Listeriosis
+4018,Menkes Kinky Hair Syndrome
+4019,Overdose
+4020,Sweat Gland Diseases
+4021,Wasting Syndrome
+4022,Hydrocephalus
+4023,Disorders of Excessive Somnolence
+4024,"Dental Occlusion, Traumatic"
+4025,Porokeratosis
+4026,Sigmoid Neoplasms
+4027,Glossopharyngeal Nerve Diseases
+4028,Necrobiotic Xanthogranuloma
+4029,"Xanthomatosis, Cerebrotendinous"
+4030,"Keratoderma, Palmoplantar"
+4031,Holocarboxylase Synthetase Deficiency
+4032,Toxoplasmosis
+4033,"Empyema, Subdural"
+4034,"Hernia, Obturator"
+4035,Retinal Vasculitis
+4036,Peritoneal Diseases
+4037,"Puberty, Precocious"
+4038,Rheumatic Heart Disease
+4039,Fanconi Syndrome
+4040,Alcohol Withdrawal Seizures
+4041,"Tuberculosis, Osteoarticular"
+4042,Mouth Neoplasms
+4043,Uveal Neoplasms
+4044,Aortopulmonary Septal Defect
+4045,Craniofacial Dysostosis
+4046,Aniseikonia
+4047,Kidney Cortex Necrosis
+4048,Brain Abscess
+4049,Hemosiderosis
+4050,Rectal Neoplasms
+4051,"Mixed Tumor, Mullerian"
+4052,Opioid-Related Disorders
+4053,Mevalonate Kinase Deficiency
+4054,Sjogren-Larsson Syndrome
+4055,Morphine Dependence
+4056,Diaphragmatic Eventration
+4057,Adrenogenital Syndrome
+4058,Herpes Zoster
+4059,Nematode Infections
+4060,"Mammary Neoplasms, Animal"
+4061,Alphavirus Infections
+4062,Rickettsia Infections
+4063,"Aphasia, Broca"
+4064,Humeral Fractures
+4065,Spondylosis
+4066,Erysipeloid
+4067,Entamoebiasis
+4068,Hydronephrosis
+4069,Enuresis
+4070,Tobacco Use Disorder
+4071,"Wounds, Gunshot"
+4072,"Hepatitis, Alcoholic"
+4073,Spondylarthritis
+4074,"Anemia, Refractory, with Excess of Blasts"
+4075,"Dyskinesia, Drug-Induced"
+4076,Paraneoplastic Syndromes
+4077,"Hyperglycinemia, Nonketotic"
+4078,"Hypertension, Malignant"
+4079,Rhinophyma
+4080,Vitamin A Deficiency
+4081,Duane Retraction Syndrome
+4082,Ganglioneuroma
+4083,Hypotrichosis
+4084,Syndrome
+4085,"Hepatitis, Animal"
+4086,Thyroid Hormone Resistance Syndrome
+4087,Diabetic Cardiomyopathies
+4088,Prognathism
+4089,Clonorchiasis
+4090,Hyperamylasemia
+4091,Pneumatosis Cystoides Intestinalis
+4092,Granular Cell Tumor
+4093,Chickenpox
+4094,Alopecia Areata
+4095,Hip Injuries
+4096,"Adenoma, Liver Cell"
+4097,Silicosis
+4098,Burning Mouth Syndrome
+4099,Exfoliation Syndrome
+4100,"Papilloma, Choroid Plexus"
+4101,Sulfhemoglobinemia
+4102,Ventricular Premature Complexes
+4103,Gastroenteritis
+4104,Open Bite
+4105,Urinary Bladder Neoplasms
+4106,"Epilepsy, Tonic-Clonic"
+4107,"Pre-Excitation, Mahaim-Type"
+4108,Acute Lung Injury
+4109,Common Bile Duct Neoplasms
+4110,Heart Septal Defects
+4111,Hemoglobinopathies
+4112,Attention Deficit Disorder with Hyperactivity
+4113,Encephalitis
+4114,"Pyelonephritis, Xanthogranulomatous"
+4115,Myoma
+4116,Anthracosis
+4117,"Hypertrophy, Left Ventricular"
+4118,"Hearing Loss, Noise-Induced"
+4119,Mallory-Weiss Syndrome
+4120,Paraphimosis
+4121,Schistosomiasis
+4122,Ectromelia
+4123,"Dilatation, Pathologic"
+4124,"Nephroma, Mesoblastic"
+4125,Borderline Personality Disorder
+4126,Blood Protein Disorders
+4127,Infratentorial Neoplasms
+4128,"Myelitis, Transverse"
+4129,Myocarditis
+4130,Dental Pulp Diseases
+4131,Melanosis
+4132,Babesiosis
+4133,Glucagonoma
+4134,"T-Lymphocytopenia, Idiopathic CD4-Positive"
+4135,Sciatic Neuropathy
+4136,"Amino Acid Transport Disorders, Inborn"
+4137,Hypophosphatemia
+4138,"Lymphoma, B-Cell"
+4139,Epistaxis
+4140,Miliaria
+4141,Central Nervous System Bacterial Infections
+4142,Chromosome Disorders
+4143,Neurocytoma
+4144,Catastrophic Illness
+4145,"Sarcoma, Yoshida"
+4146,Vaginal Diseases
+4147,Leukemia P388
+4148,Tooth Wear
+4149,"Peritonitis, Tuberculous"
+4150,"Pneumonia, Pneumococcal"
+4151,Cholesteatoma
+4152,Macroglossia
+4153,Peste-des-Petits-Ruminants
+4154,"Purpura, Thrombocytopenic, Idiopathic"
+4155,"Sarcoma, Experimental"
+4156,Exsanguination
+4157,Glycogen Storage Disease Type III
+4158,Wiskott-Aldrich Syndrome
+4159,Muscular Diseases
+4160,Hepatitis A
+4161,Oliguria
+4162,Agammaglobulinemia
+4163,Orbital Myositis
+4164,Acantholysis
+4165,"Amyloidosis, Familial"
+4166,Maxillary Fractures
+4167,Hypesthesia
+4168,Parotitis
+4169,Rhabdomyosarcoma
+4170,Superior Mesenteric Artery Syndrome
+4171,Encephalomyelitis
+4172,Migraine with Aura
+4173,Dictyocaulus Infections
+4174,Pericoronitis
+4175,Gait Ataxia
+4176,Intertrigo
+4177,Mucormycosis
+4178,Superinfection
+4179,Polyps
+4180,Kashin-Beck Disease
+4181,Anisakiasis
+4182,Temporomandibular Joint Disorders
+4183,Swayback
+4184,Venous Insufficiency
+4185,Dyssomnias
+4186,Metabolic Diseases
+4187,Sclerosis
+4188,Ischemia
+4189,Choroid Hemorrhage
+4190,"Lung Diseases, Parasitic"
+4191,Nervous System Malformations
+4192,"Kidney Diseases, Cystic"
+4193,Choline Deficiency
+4194,Intracranial Embolism and Thrombosis
+4195,Laurence-Moon Syndrome
+4196,Callosities
+4197,"Muscular Dystrophy, Facioscapulohumeral"
+4198,Postoperative Nausea and Vomiting
+4199,Vulvar Lichen Sclerosus
+4200,Myotonic Dystrophy
+4201,Deglutition Disorders
+4202,Lentivirus Infections
+4203,"Mesothelioma, Cystic"
+4204,Postpoliomyelitis Syndrome
+4205,Lysosomal Storage Diseases
+4206,Urinary Fistula
+4207,Prehypertension
+4208,Neurodermatitis
+4209,Balantidiasis
+4210,"Cholesteatoma, Middle Ear"
+4211,Blood Coagulation Disorders
+4212,Upper Extremity Deep Vein Thrombosis
+4213,Adenomatous Polyposis Coli
+4214,"Encephalitis, Varicella Zoster"
+4215,Hidradenitis
+4216,Hyperammonemia
+4217,Middle Lobe Syndrome
+4218,Leishmaniasis

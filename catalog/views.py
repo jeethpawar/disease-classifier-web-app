@@ -23,15 +23,16 @@ def index(request):
         form = SymptomForm(request.POST)
         if form.is_valid():
             context = {}
-
+            
             # 2. Obtain form data
-            N_SYMPTOMS = 278
-            example = [False]*N_SYMPTOMS # 278 is the number of symptoms we consider (use 321 for the web app)
-            example[0] = True
-            example_prop = row_prop(example)
+            #N_SYMPTOMS = 278
+            #example = [False]*N_SYMPTOMS # 278 is the number of symptoms we consider (use 321 for the web app)
+            #example[0] = True
+            example_prop = row_prop(form.as_model_input())
             pred = model_predict(clf, [example_prop])
             results = {}
-
+            logging.debug('RequestForm: %s' % (HttpResponse(request.POST.items())))
+            logging.debug('example prop: %s' %(example_prop))
             if pred: 
                 pred_id = int(pred[0])
                 pred_0 = {}
@@ -43,7 +44,7 @@ def index(request):
 
                 results['pred_0'] = pred_0
                 context['results'] = results
-                
+                logging.debug(form.cleaned_data)
                 symptoms = form.cleaned_data.get('symptoms')
                 return render(request, 'results_page.html', context)
             

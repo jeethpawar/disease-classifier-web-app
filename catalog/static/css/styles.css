@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Varta:400,600');
 body {
 	margin: 0;
-	background: #222;
+	background: #FFFAF0;
 	font-family: 'Varta';
 	font-weight: 800;
 }
@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background: #4fc6db;
+  background: #708090;
 }
 
 header::after {
@@ -71,3 +71,6 @@ nav a::before {
 nav a:hover::before {
   width: 100%;
 }
+img.styledimg {
+  border-radius: 30px;
+  }

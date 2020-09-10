@@ -5,8 +5,10 @@
   <p>Welcome to our online Disease classifier, a website that utilizes machine learning developed by <em>Jeeth Pawar</em>.</p>
   <h2>Disease Analysis</h2>
   <p>Please follow the prompts below to allow our model to predict your most likely ailments. Our website features 323 symptoms that you can choose, and factor in their relative severity.</p>
+  <div id = 'symptom-form'>
   <form action = "" method = 'POST' id = sympform> {% csrf_token%}
   {{form.as_p}}
   <input type="submit" value="OK"> 
   </form>
+</div>
 {% endblock %}

@@ -1,5 +1,4 @@
 {% extends "base_generic.html" %}
 {% block content %}
-  <h1>You have disease ID: {{results.pred_0}}</h1>
-  <h2>The disease is called : <a href={{results.pred_0.disease_link}}>{{results.pred_0.disease_name}}</a>
+  <h2>Our model reported your disease as: <a href={{results.pred_0.disease_link}}>{{results.pred_0.disease_name}}</a>
 {% endblock %}

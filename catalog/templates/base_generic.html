@@ -58,14 +58,23 @@
 
 {% block javascript %}
 <script>
-  //$('#searchbar').on('keyup', function(){
-  $(function() {
-    $('#searchbar').autocomplete({
-      source: ['js', 'python', 'php']
+  $(function(){
+    var searchValue = $(this).val();
+    $.ajax({
+      url: "{% url 'autocomplete' %}",
+      data: {
+        'search' : searchValue
+      },
+      dataType: 'json',
+      success : function(data) {
+        console.log('hello world')
+        var list = [ "hello", "hell", "helmet"];
+        $('#searchbar').autocomplete({
+          source: list
+        })
+      }
     })
   });
-
-
 </script>
 {% endblock %}
 

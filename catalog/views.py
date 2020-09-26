@@ -6,6 +6,7 @@ from django.views import generic
 from django.shortcuts import render
 from django.http import HttpResponse
 from django.template import RequestContext
+from django.http import JsonResponse
 
 from catalog.util import *
 from catalog.forms import SymptomForm
@@ -15,8 +16,8 @@ from joblib import dump, load
 import pandas as pd
 import logging
 
-#clf = load('model/mini-model-08-31.joblib')
-clf = load('model/fullmodel.joblib')
+clf = load('model/mini-model-08-31.joblib')
+#clf = load('model/fullmodel.joblib')
 diseaseInfo = DiseaseInfo()
 autocomplete = AutocompleteSystem()
 def index(request):
@@ -56,3 +57,22 @@ def index(request):
 
 def results_page(request):
     return render(request, 'results_page.html')
+
+
+def test(request):
+    logging.debug('request: {}'.format(request))
+    logging.debug(SymptomForm())
+    return render(request, 'index.html')
+
+
+def autocomplete(request):
+    if request.is_ajax():
+        logging.debug('hello')
+        logging.debug(request.GET.get('search', None))
+        #resp = request.GET.get('callback', None) + '(' + '{ \'data\' : \' hello\'}:' + ');'
+        #return HttpResponse(resp, content_type='application/json')
+        list = ['apple', 'ape', 'ant']
+        data = {
+            'list' : list
+        }
+        return JsonResponse(data)

@@ -11,6 +11,8 @@ class AutocompleteSystem():
     def  __init__(self):
         self.root = TrieNode()
         self.searchWord = ''
+        # TODO: bring together with reading csv
+        self.symptoms = []
         
         
     def formTrie(self, symptoms):
@@ -74,11 +76,17 @@ class AutocompleteSystem():
         self.word_list.sort()
         for s in self.word_list:
             print(s[1])
+    
+    ## TODO: Add function: get_symptom_id(symptom_name)
+    #
+    #        return: -1 upon symptom not existing
 
         
     
-    def select(self,symptom):
-        self._addRecord(symptom, 1)
+    # TODO: just see my recent edit here
+    def select(self,symptom_id):
+        if 0 <= symptom_id < len(self.symptoms)-1:
+            self._addRecord(self.symptoms[symptom_id], 1)
         
 """
 symptoms = ["fever", "feverish", "bodyache", "fart", "fevery"]

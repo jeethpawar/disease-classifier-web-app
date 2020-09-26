@@ -29,7 +29,13 @@ def index(request):
             
             # 2. Obtain form data
             #
-            form_prop = row_prop(form.as_model_input())
+            
+            form_input = form.as_model_input()
+            # TODO: loop over form_input, and correctly call the Autocomplete
+            #       select() function for each symptom_name which corresponds
+            #       with the symptom_id from form_input
+
+            form_prop = row_prop(form_input)
             pred = model_predict(clf, [form_prop])
             results = {}
             if pred: 
@@ -74,13 +80,14 @@ def autocomplete_search(request):
 
 
 
-def autocomplete_select(request):
+def check_symptom_checkbox(request):
     if request.is_ajax():
         logging.debug('cur-select: {}'.format(request.GET.get('select', None)))
         symptom_choice = request.GET.get('select', None)
-        # TODO: call autocompleteSystem's search(), and return its output as 
+        # TODO: call autocompleteSystem's get_symptom_id(symptom_choice), and return its output as 
         #       value for 'id' key in data dictionary. This is the symptom id of 
         #       the input symptom
+
         id = str(1)
         data = {
             'id' : id

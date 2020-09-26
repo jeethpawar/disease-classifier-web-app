@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'catalog', 
     'django.contrib.sites',
     'django.contrib.flatpages',
+    'clear_cache'
 
 ]
 

@@ -59,20 +59,30 @@ def results_page(request):
     return render(request, 'results_page.html')
 
 
-def test(request):
-    logging.debug('request: {}'.format(request))
-    logging.debug(SymptomForm())
-    return render(request, 'index.html')
-
-
-def autocomplete(request):
+def autocomplete_search(request):
     if request.is_ajax():
         logging.debug('cur-search: {}'.format(request.GET.get('search', None)))
+        cur_search = request.GET.get('search', None)
         
         # TODO: call autocompleteSystem's search(), and return its output as 
         #       value for 'list' key in data dictionary
         list = ['apple', 'ape', 'ant']
         data = {
             'list' : list
+        }
+        return JsonResponse(data)
+
+
+
+def autocomplete_select(request):
+    if request.is_ajax():
+        logging.debug('cur-select: {}'.format(request.GET.get('select', None)))
+        symptom_choice = request.GET.get('select', None)
+        # TODO: call autocompleteSystem's search(), and return its output as 
+        #       value for 'id' key in data dictionary. This is the symptom id of 
+        #       the input symptom
+        id = str(1)
+        data = {
+            'id' : id
         }
         return JsonResponse(data)

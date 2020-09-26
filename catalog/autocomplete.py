@@ -80,7 +80,7 @@ class AutocompleteSystem():
     def select(self,symptom):
         self._addRecord(symptom, 1)
         
-
+"""
 symptoms = ["fever", "feverish", "bodyache", "fart", "fevery"]
 symptom = "fev"
 
@@ -96,3 +96,4 @@ if comp == -1:
     print('No strings with this prefix')
 elif comp == 0:
     print('No strings wiht this prefix')
+"""

@@ -4,23 +4,28 @@
   <center><h1>Disease-Symptom Classifier Home</h1></center>
   <center><p>Welcome to our online Disease classifier, a website that utilizes machine learning developed by <em>Jeeth Pawar</em>.</p></center>
   <h2>Disease Analysis</h2>
-    <div class="ui-widget">
-    <label for="searchbar">Symptoms: </label>
-    <input id="searchbar">
-  </div>
+
   <p>Please follow the prompts below to allow our model to predict your most likely ailments. Our website features 323 symptoms that you can choose, and factor in their relative severity.</p>
   
   <div>
-  <p>Konner's practice</p>
-
   <div style='margin-bottom:10%;'>
   <div id = 'symptom-form' style="margin-left:10%; margin-right:10%;">
+    <center>
+    <div class="ui-widget">
+      <label for="searchbar">Symptoms*: </label>
+      <input id="searchbar">
+      <button id="searchbar-button">Select</button>
+      <p style="font-size: 10px;text-align:right">*min 2 characters to begin searching</p>
+    </div>
+    </center>
+
   <form action = "" method = 'POST' id = sympform > {% csrf_token%}
   <div style = "overflow:scroll; height:200px;">
     {{form.as_table}}
   </div>
   <input type="submit" value="OK"> 
   </form>
+
   </div>
   </div>
   </div>

@@ -49,33 +49,33 @@
 {% block javascript %}
 <script>
 
-  // monitor searchbar for keyboard input
-   $('#searchbar').on('keypress', function(e) {
+  // select checkbox of symptom upon pressing 'Select' button
+  $('#searchbar-button').on('click', function(e) {
+    console.log('select')
+    var selectWord = $(this).val();
+    $.ajax({
+      url: "{% url 'check_checkbox' %}",
+      data: {
+        'select' : selectWord
+      },
+      dataType: 'json',
+      success : function(data) {
+        var id = data.id;
+        if (id > 0) {
+          // check the box if valid id
+          $('#id_Symptoms_' + id).prop('checked', true);
+        }
+        
+      }
+    });
+  })
+
+  // monitor searchbar for valid keyboard input
+   $('#searchbar').on('keyup', function(e) {
       var keyCode = e.which;
 
-      // pressed Enter => check the checkbox of the corresponding symptom name choice
-      if (keyCode == 13) {
-        console.log('select')
-        var selectWord = $(this).val();
-        $.ajax({
-          url: "{% url 'check_checkbox' %}",
-          data: {
-            'select' : selectWord
-          },
-          dataType: 'json',
-          success : function(data) {
-            var id = data.id;
-            if (id > 0) {
-              // check the box if valid id
-              $('#id_Symptoms_' + id).prop('checked', true);
-            }
-            
-          }
-        });
-      }
-
       // pressed regular character => Send data to Autocomplete.search()
-      else if ((keyCode > 64 && keyCode < 91) || (keyCode > 96 && keyCode < 123) || (keyCode == 8)) {
+      if ((keyCode > 64 && keyCode < 91) || (keyCode > 96 && keyCode < 123) || (keyCode == 8)) {
         console.log('search')
         var searchValue = $(this).val();
         $.ajax({
@@ -87,7 +87,8 @@
           success : function(data) {
             var list = data.list;
             $('#searchbar').autocomplete({
-              source: list
+              source: list,
+              minLength: 1
             })
           }
         });

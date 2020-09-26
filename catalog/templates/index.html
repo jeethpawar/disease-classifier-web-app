@@ -4,11 +4,62 @@
   <center><h1>Disease-Symptom Classifier Home</h1></center>
   <center><p>Welcome to our online Disease classifier, a website that utilizes machine learning developed by <em>Jeeth Pawar</em>.</p></center>
   <h2>Disease Analysis</h2>
-  <p>Please follow the prompts below to allow our model to predict your most likely ailments. Our website features 323 symptoms that you can choose, and factor in their relative severity.</p>
+  <p>Please follow the prompts below to allow our model to predict your most likely ailments. Our website features 323 symptoms that you can choose. Please choose all the symptoms you have to get the most accurate result.</p>
   <div style='margin-bottom:10%;'>
   <div id = 'symptom-form' style="margin-left:10%; margin-right:10%;">
   <form action = "" method = 'POST' id = sympform > {% csrf_token%}
-  <div style = "overflow:scroll; height:200px;">
+  <div>
+    <style>
+      body {
+  font-family: Arial;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<!--
+<h2>Search</h2>
+<form class="example">
+  <input type="text" placeholder="Search.." name="search">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+-->
+</body>
+  </div>
+    <div style = "overflow:scroll; height:200px;">
     {{form.as_table}}
   </div>
   <input type="submit" value="OK"> 

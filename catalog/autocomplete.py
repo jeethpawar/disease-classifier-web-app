@@ -1,3 +1,7 @@
+import pandas as pd
+import os
+import logging
+
 class TrieNode():
    
     def __init__(self):
@@ -11,15 +15,19 @@ class AutocompleteSystem():
     def  __init__(self):
         self.root = TrieNode()
         self.searchWord = ''
-        
-        
+        res = []
+        symps = pd.read_csv('data/symptom_ids.csv')
+        for i in range(len(symps.columns)):
+            if i > 0:
+                key = str(i)
+                res.append(symps[key][0])
+        self.formTrie(res)
+
     def formTrie(self, symptoms):
-      
         for symptom in symptoms:
             self._addRecord(symptom, 0)
 
-    def _addRecord(self, symptom, hotdegree):
-       
+    def _addRecord(self, symptom, hotdegree):       
         node = self.root
 
         for ch in list(symptom):
@@ -35,7 +43,6 @@ class AutocompleteSystem():
         
     
     def Search(self, symptom):
-      
         node = self.root
         found = True
         for ch in list(symptom):
@@ -48,7 +55,6 @@ class AutocompleteSystem():
         return node and node.isEnd and found
         
     def suggestions(self, node, word):
-        
         if node.isEnd:
             self.word_list.append((node.rank, word))
         for ch,n in node.children.items():
@@ -79,20 +85,3 @@ class AutocompleteSystem():
     
     def select(self,symptom):
         self._addRecord(symptom, 1)
-        
-
-symptoms = ["fever", "feverish", "bodyache", "fart", "fevery"]
-symptom = "fev"
-
-t = AutocompleteSystem()
-t.formTrie(symptoms)
-
-t.select('feverish')
-comp = t.printSuggestions(symptom)
-t.select('feverish')    
-comp = t.printSuggestions('fe')
-
-if comp == -1:
-    print('No strings with this prefix')
-elif comp == 0:
-    print('No strings wiht this prefix')

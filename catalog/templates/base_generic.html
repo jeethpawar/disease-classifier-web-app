@@ -13,7 +13,6 @@
 <div style="height: 100%">
 
 <!-- Navbar -->
-<!--
 <div class="w3-top w3-gray" style="display:block;">
  
   
@@ -25,31 +24,21 @@
   {% endfor %}
   
 </div>
--->
 
   <!-- Image Header -->
-  <!--
 <div class="w3-display-container w3-animate-opacity">
   {% load static %}
   <img src="{% static "machine.jpg" %}" alt="image" class="styledimg" style="width:100%;min-height:50px;max-height:300px;">
-</div>-->
+</div>
 <div style="margin-left: 20%; margin-right: 20%;">
-<!--
 {% block content %}
 {% endblock %}
--->
-  <div class="ui-widget">
-    <label for="searchbar">Symptoms: </label>
-    <input id="searchbar">
-</div> 
 
 </div> 
 
-<!--
-<footer>
+<footer style="position: fixed; bottom: 0; width: 100%">
   <p>Built By Jeeth</p>
 </footer>
--->
 </body>
 
 <script src = "https://code.jquery.com/jquery-1.10.2.js"></script>
@@ -68,13 +57,18 @@
       dataType: 'json',
       success : function(data) {
         console.log('hello world')
-        var list = [ "hello", "hell", "helmet"];
+        var list = data.list;
         $('#searchbar').autocomplete({
           source: list
         })
       }
     })
   });
+
+  $(function() {
+    console.log('hello')
+    $('#id_Symptoms_9').prop('checked', true);
+  })
 </script>
 {% endblock %}
 

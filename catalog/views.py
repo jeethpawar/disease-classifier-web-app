@@ -67,10 +67,10 @@ def test(request):
 
 def autocomplete(request):
     if request.is_ajax():
-        logging.debug('hello')
-        logging.debug(request.GET.get('search', None))
-        #resp = request.GET.get('callback', None) + '(' + '{ \'data\' : \' hello\'}:' + ');'
-        #return HttpResponse(resp, content_type='application/json')
+        logging.debug('cur-search: {}'.format(request.GET.get('search', None)))
+        
+        # TODO: call autocompleteSystem's search(), and return its output as 
+        #       value for 'list' key in data dictionary
         list = ['apple', 'ape', 'ant']
         data = {
             'list' : list

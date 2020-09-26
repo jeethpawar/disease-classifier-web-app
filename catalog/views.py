@@ -20,6 +20,7 @@ clf = load('model/mini-model-08-31.joblib')
 #clf = load('model/fullmodel.joblib')
 diseaseInfo = DiseaseInfo()
 autocomplete = AutocompleteSystem()
+
 def index(request):
     if request.method == 'POST':
         form = SymptomForm(request.POST)

@@ -20,7 +20,58 @@
     </center>
 
   <form action = "" method = 'POST' id = sympform > {% csrf_token%}
-  <div style = "overflow:scroll; height:200px;">
+  <div>
+    <style>
+      body {
+  font-family: Arial;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<!--
+<h2>Search</h2>
+<form class="example">
+  <input type="text" placeholder="Search.." name="search">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+-->
+</body>
+  </div>
+    <div style = "overflow:scroll; height:200px;">
     {{form.as_table}}
   </div>
   <input type="submit" value="OK"> 

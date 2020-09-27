@@ -21,7 +21,7 @@
   {% load flatpages %}
   {% get_flatpages as flatpages %}
   {% for page in flatpages %}
-    <a href="{{ page.url }}" class="w3-bar-item w3-button w3-hide-small w3-hover-white"> {{ page.title }}</a>
+    <a href="{{page.url}}" class="w3-bar-item w3-button w3-hide-small w3-hover-white"> {{page.title}}</a>
   {% endfor %}
   
 </div>

@@ -19,13 +19,13 @@ def load_options():
 OPTIONS = load_options()
 
 class SymptomForm(forms.Form):
-    #OPTIONS = load_options()
+    OPTIONS = load_options()
     Symptoms = forms.MultipleChoiceField(widget = forms.CheckboxSelectMultiple, choices = OPTIONS)
 
     def as_model_input(self):
         symptoms = self.cleaned_data['Symptoms']
-        #symptom_form_results = [False]*len(OPTIONS)
-        symptom_form_results = [False]*278
+        symptom_form_results = [False]*len(OPTIONS)
+        #symptom_form_results = [False]*278
         for symptom_id in symptoms:
             symptom_form_results[int(symptom_id)] = True
         return symptom_form_results

@@ -15,17 +15,15 @@ class AutocompleteSystem():
     def  __init__(self):
         self.root = TrieNode()
         self.searchWord = ''
-        res = []
         symps = pd.read_csv('data/symptom_ids.csv')
 
-        # TODO: create list of all symptom names
         self.symptoms = []
 
         for i in range(len(symps.columns)):
             if i > 0:
                 key = str(i)
-                res.append(symps[key][0])
-        self.formTrie(res)
+                self.symptoms.append(symps[key][0])
+        self.formTrie(self.symptoms)
 
     def formTrie(self, symptoms):
         for symptom in symptoms:
@@ -46,7 +44,7 @@ class AutocompleteSystem():
         node.rank -= hotdegree
         
     
-    def Search(self, symptom):
+    '''def Search(self, symptom):
         node = self.root
         found = True
         for ch in list(symptom):
@@ -56,7 +54,7 @@ class AutocompleteSystem():
             
             node = node.children[ch]
 
-        return node and node.isEnd and found
+        return node and node.isEnd and found'''
         
     def suggestions(self, node, word):
         if node.isEnd:
@@ -64,7 +62,7 @@ class AutocompleteSystem():
         for ch,n in node.children.items():
             self.suggestions(n, word + ch)
    
-    def printSuggestions(self, symptom):
+    def search(self, symptom):
         self.word_list = []
         node = self.root
         nonexsistent = False
@@ -76,21 +74,26 @@ class AutocompleteSystem():
             search_char += ch
             node = node.children[ch]
         if nonexsistent:
-            return 0
-        elif node.isEnd and not node.children:
-            return -1
-        t.suggestions(node, search_char)
+            return []
+        #elif node.isEnd and not node.children:
+            #return -1
+        self.suggestions(node, search_char)
+        res = [s[1] for s in sorted(self.word_list)[:5]]
+        logging.debug(res)
+        return res
 
-        self.word_list.sort()
-        for s in self.word_list:
-            print(s[1])
+    def get_symptom_id(self, symptom_name):
+        if (symptom_name in self.symptoms):
+            return self.symptoms.index(symptom_name)
+        else:
+            return -1
     
-    ## TODO: Add function: get_symptom_id(symptom_name)
-    #
-    #        return: -1 upon symptom not existing
+    def get_symptom_name(self, symptom_id):
+        return self.symptoms[int(symptom_id)]
+
 
         
     # TODO: just see my recent edit here
     def select(self,symptom_id):
-        if 0 <= symptom_id < len(self.symptoms)-1:
+        if 0 <= symptom_id < len(self.symptoms):
             self._addRecord(self.symptoms[symptom_id], 1)

@@ -55,7 +55,7 @@
   // select checkbox of symptom upon pressing 'Select' button
   $('#searchbar-button').on('click', function(e) {
     console.log('select')
-    var selectWord = $(this).val();
+    var selectWord = $('#searchbar').val();
     $.ajax({
       url: "{% url 'check_checkbox' %}",
       data: {
@@ -64,7 +64,8 @@
       dataType: 'json',
       success : function(data) {
         var id = data.id;
-        if (id > 0) {
+        if (id >= 0) {
+          console.log("helloworld")
           // check the box if valid id
           $('#id_Symptoms_' + id).prop('checked', true);
         }

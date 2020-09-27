@@ -1,0 +1,1 @@
+web: webdisease.wsgi.application

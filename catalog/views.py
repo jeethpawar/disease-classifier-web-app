@@ -17,9 +17,9 @@ import pandas as pd
 import logging
 
 #clf = load('model/mini-model-08-31.joblib')
-clf = load('model/fullmodel.joblib')
-diseaseInfo = DiseaseInfo()
-autocomplete = AutocompleteSystem()
+#clf = load('model/fullmodel.joblib')
+#diseaseInfo = DiseaseInfo()
+#autocomplete = AutocompleteSystem()
 
 def index(request):
     if request.method == 'POST':
@@ -27,10 +27,10 @@ def index(request):
         
         if form.is_valid():
             context = {}
-            
+            return render(request, 'results_page.html', context)
             # 2. Obtain form data
             #
-            
+            '''           
             form_input = form.as_model_input()
             for symptom_id ,symptom_id_selected in enumerate(form_input):
                 if symptom_id_selected == True: 
@@ -55,7 +55,7 @@ def index(request):
             
             else:
                 return render(request, 'index.html')
-            
+            '''
             
             
     else:   
@@ -70,8 +70,9 @@ def autocomplete_search(request):
     if request.is_ajax():
         logging.debug('cur-search: {}'.format(request.GET.get('search', None)))
         cur_search = request.GET.get('search', None)
+        #autocomplete.search(cur_search)
         data = {
-            'list' : autocomplete.search(cur_search)
+            'list' : ['apple', 'ape', 'ant']
         }
         return JsonResponse(data)
 
@@ -85,7 +86,8 @@ def check_symptom_checkbox(request):
         # TODO: call autocompleteSystem's get_symptom_id(symptom_choice), and return its output as 
         #       value for 'id' key in data dictionary. This is the symptom id of 
         #       the input symptom
-        idsymptom = str(autocomplete.get_symptom_id(symptom_choice))
+        #idsymptom = str(autocomplete.get_symptom_id(symptom_choice))
+        idsymptom = '0'
         logging.debug('symptom_id = %s', idsymptom)
         data = {
             'id' : idsymptom

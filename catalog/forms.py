@@ -6,7 +6,7 @@ import pandas as pd
 
 
 def load_options():
-    '''df2 = pd.read_csv('data/symptom_ids.csv')
+    df2 = pd.read_csv('data/symptom_ids.csv')
     res = []
 
     for i in range(len(df2.columns)):
@@ -14,8 +14,7 @@ def load_options():
             key = str(i)
             symptom_id = str(i-1)
             res.append([symptom_id, df2[key][0]])
-    return tuple(res)'''
-    return tuple([[0,'test']])
+    return tuple(res)
 
 OPTIONS = load_options()
 

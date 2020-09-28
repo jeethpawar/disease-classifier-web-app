@@ -1,1 +1,1 @@
-web: webdisease.wsgi.application
+web: webdisease.wsgi

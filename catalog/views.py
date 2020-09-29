@@ -16,7 +16,7 @@ from joblib import dump, load
 import pandas as pd
 import logging
 
-clf = load('model/mini-model-08-31.joblib')
+clf = load('model/top1000model.joblib')
 #clf = load('model/fullmodel.joblib')
 diseaseInfo = DiseaseInfo()
 autocomplete = AutocompleteSystem()

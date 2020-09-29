@@ -92,3 +92,9 @@ def check_symptom_checkbox(request):
             'id' : idsymptom
         }
         return JsonResponse(data)
+
+def about(request):
+    return render(request, 'catalog/about.html', context = {})
+
+def futuresteps(request):
+    return render(request, 'catalog/futuresteps.html', context = {})

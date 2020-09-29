@@ -17,13 +17,10 @@
 <div class="w3-top w3-gray" style="display:block;">
  
   
-  <a href="{% url 'index' %}" class="w3-bar-item w3-button w3-teal"><i class="fa fa-home w3-margin-right"></i>Home</a>
-  {% load flatpages %}
-  {% get_flatpages as flatpages %}
-  {% for page in flatpages %}
-    <a href="{{page.url}}" class="w3-bar-item w3-button w3-hide-small w3-hover-white"> {{page.title}}</a>
-  {% endfor %}
-  
+  <a href="{% url 'index' %}" class="w3-bar-item w3-button w3-teal">Home</a>
+  <a href="{% url 'about' %}" class="w3-bar-item w3-button w3-hide-small w3-hover-white">About</a>
+  <a href="{% url 'futuresteps' %}" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Future Steps</a>
+
 </div>
 
   <!-- Image Header -->

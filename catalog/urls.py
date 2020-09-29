@@ -6,5 +6,7 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('results_page', views.results_page, name = 'results_page'),
     path('ajax/complete/', views.check_symptom_checkbox, name='check_checkbox'),
-    path('ajax/complete/1', views.autocomplete_search, name='autocomplete_search')
+    path('ajax/complete/1', views.autocomplete_search, name='autocomplete_search'),
+    path('about', views.about, name = 'about'),
+    path('futuresteps', views.futuresteps, name = 'futuresteps')
 ]

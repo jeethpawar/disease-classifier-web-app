@@ -82,11 +82,8 @@ def check_symptom_checkbox(request):
         logging.debug('cur-select: {}'.format(request.GET.get('select', None)))
         symptom_choice = request.GET.get('select', None)
         logging.debug('symptom_choice = %s', symptom_choice)
-        # TODO: call autocompleteSystem's get_symptom_id(symptom_choice), and return its output as 
-        #       value for 'id' key in data dictionary. This is the symptom id of 
-        #       the input symptom
-        #idsymptom = str(autocomplete.get_symptom_id(symptom_choice))
-        idsymptom = '0'
+        idsymptom = str(autocomplete.get_symptom_id(symptom_choice))
+        #idsymptom = '0'
         logging.debug('symptom_id = %s', idsymptom)
         data = {
             'id' : idsymptom

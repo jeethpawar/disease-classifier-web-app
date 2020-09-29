@@ -22,7 +22,7 @@ class AutocompleteSystem():
         for i in range(len(symps.columns)):
             if i > 0:
                 key = str(i)
-                self.symptoms.append(symps[key][0])
+                self.symptoms.append(symps[key][0].lower())
         self.formTrie(self.symptoms)
 
     def formTrie(self, symptoms):
@@ -67,7 +67,7 @@ class AutocompleteSystem():
         node = self.root
         nonexsistent = False
         search_char = ''
-        for ch in list(symptom):
+        for ch in list(symptom.lower()):
             if not node.children.get(ch):
                 nonexsistent = True
                 break
@@ -75,14 +75,13 @@ class AutocompleteSystem():
             node = node.children[ch]
         if nonexsistent:
             return []
-        #elif node.isEnd and not node.children:
-            #return -1
         self.suggestions(node, search_char)
-        res = [s[1] for s in sorted(self.word_list)[:5]]
+        res = [s[1].title() for s in sorted(self.word_list)[:5]]
         logging.debug(res)
         return res
 
     def get_symptom_id(self, symptom_name):
+        symptom_name = symptom_name.lower()
         if (symptom_name in self.symptoms):
             return self.symptoms.index(symptom_name)
         else:
@@ -93,7 +92,6 @@ class AutocompleteSystem():
 
 
         
-    # TODO: just see my recent edit here
     def select(self,symptom_id):
         if 0 <= symptom_id < len(self.symptoms):
             self._addRecord(self.symptoms[symptom_id], 1)

@@ -10,7 +10,7 @@ def load_options():
     res = []
 
     for i in range(len(df2.columns)):
-        if i > 0 and i != 170:
+        if i > 0 and i != 169:
             key = str(i)
             symptom_id = str(i-1)
             res.append([symptom_id, df2[key][0]])

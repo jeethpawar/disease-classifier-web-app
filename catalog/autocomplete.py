@@ -20,7 +20,7 @@ class AutocompleteSystem():
         self.symptoms = []
 
         for i in range(len(symps.columns)):
-            if i > 0 and i != 170:
+            if i > 0 and i != 169:
                 key = str(i)
                 self.symptoms.append(symps[key][0].lower())
         self.formTrie(self.symptoms)

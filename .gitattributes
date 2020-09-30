@@ -1,3 +1,4 @@
 fullmodel.joblib filter=lfs diff=lfs merge=lfs -text
 model/top1000model.joblib filter=lfs diff=lfs merge=lfs -text
 model/top500model.joblib filter=lfs diff=lfs merge=lfs -text
+model/top250model.joblib filter=lfs diff=lfs merge=lfs -text
